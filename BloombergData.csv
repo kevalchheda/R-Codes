@@ -1,0 +1,506 @@
+TICKER,NAME,INDUSTRY_SECTOR,INDUSTRY_GROUP,CUR_MKT_CAP,PX_LAST,NAME_OF_CEO,CEO_START_DATE,TOT_CEO_COMP,COMPANY_TEL_NUMBER,COMPANY_WEB_ADDRESS
+A UN  EQUITY,AGILENT TECHNOLOGIES INC,Industrial,Electronics,22437920366.82,69.6,"Michael R Mcmullen ""Mike""",3/18/2015,10090661,1-408-345-8886,www.agilent.com
+AAL UW  EQUITY,AMERICAN AIRLINES GROUP INC,"Consumer, Cyclical",Airlines,26192957490.88,55.37,"William Douglas Parker ""Doug""",01-01-2014,11140763,1-817-963-1234,www.aa.com
+AAP UN  EQUITY,ADVANCE AUTO PARTS INC,"Consumer, Cyclical",Retail,8462357146.80,114.39,"Thomas R Greco ""Tom""",4/11/2016,24479941,1-540-362-4911,www.advanceautoparts.com
+AAPL UW  EQUITY,APPLE INC,Technology,Computers,892569626830.00,175.88,"Timothy Donald Cook ""Tim""",1/1/2011,12825066,1-408-996-1010,www.apple.com
+ABBV UN  EQUITY,ABBVIE INC,"Consumer, Non-cyclical",Pharmaceuticals,179470193263.96,113.12,Richard Gonzalez,1/1/2013,22625243,1-847-932-7900,www.abbvie.com.co
+ABC UN  EQUITY,AMERISOURCEBERGEN CORP,"Consumer, Non-cyclical",Pharmaceuticals,19517598735.35,88.75,"Steven H Collis ""Steve""",7/1/2011,9907274,1-610-727-7000,www.amerisourcebergen.com
+ABT UN  EQUITY,ABBOTT LABORATORIES,"Consumer, Non-cyclical",Healthcare-Products,108971234860.80,62.4,Miles D White,1/1/1999,18971019,1-847-937-6100,www.abbott.com
+ACN UN  EQUITY,ACCENTURE PLC-CL A,Technology,Computers,104284043882.37,162,Pierre Nanterme,1/1/2011,19804109,353-1-646-2000,www.accenture.com
+ADBE UW  EQUITY,ADOBE SYSTEMS INC,Technology,Software,113619635390.97,230.48,Shantanu Narayen,12/1/2007,21934033,1-408-536-6000,www.adobe.com
+ADI UW  EQUITY,ANALOG DEVICES INC,Technology,Semiconductors,34362149489.88,92.88,Vincent T Roche,3/28/2013,10511761,1-781-329-4700,www.analog.com
+ADM UN  EQUITY,ARCHER-DANIELS-MIDLAND CO,"Consumer, Non-cyclical",Agriculture,23851260342.36,42.67,Juan Ricardo Luciano,1/1/2015,14012616,1-312-634-8100,www.adm.com
+ADP UW  EQUITY,AUTOMATIC DATA PROCESSING,"Consumer, Non-cyclical",Commercial Services,51197645383.50,115.54,Carlos A Rodriguez,11/9/2011,9764300,1-973-974-5000,www.adp.com
+ADS UN  EQUITY,ALLIANCE DATA SYSTEMS CORP,Financial,Diversified Finan Serv,12631316313.25,227.86,"Edward J Heffernan ""Ed""",3/1/2009,7840417,1-214-494-3000,www.alliancedata.com
+ADSK UW  EQUITY,AUTODESK INC,Technology,Software,29852762385.66,135.53,Andrew Anagnost,2/8/2017,10723779,1-415-507-5000,www.autodesk.com
+AEE UN  EQUITY,AMEREN CORPORATION,Utilities,Electric,13388588153.64,55.21,Warner L Baxter,7/1/2014,10636730,1-314-621-3222,www.ameren.com
+AEP UN  EQUITY,AMERICAN ELECTRIC POWER,Utilities,Electric,33180617419.80,67.4,"Nicholas K Akins ""Nick""",11/12/2011,11530461,1-614-716-1000,www.aep.com
+AES UN  EQUITY,AES CORP,Utilities,Electric,7054059996.12,10.67,Andres Ricardo Gluski Weilert,9/30/2011,14174886,1-703-522-1315,www.aes.com
+AET UN  EQUITY,AETNA INC,"Consumer, Non-cyclical",Healthcare-Services,56175264645.50,171.79,Mark T Bertolini,11/29/2010,18662306,1-860-273-0123,www.aetna.com
+AFL UN  EQUITY,AFLAC INC,Financial,Insurance,35422183154.70,45.45,"Daniel P Amos ""Dan""",1/1/1990,20412010,1-706-323-3431,www.aflac.com
+AGN UN  EQUITY,ALLERGAN PLC,"Consumer, Non-cyclical",Pharmaceuticals,53806162614.75,164.38,"Brenton L Saunders ""Brent""",01-01-2014,4139028,1-862-261-7000,www.allergan.com
+AIG UN  EQUITY,AMERICAN INTERNATIONAL GROUP,Financial,Insurance,50023850517.27,55.43,Peter Zaffino,8/1/2017,9576535,1-212-770-7000,www.aig.com
+AIV UN  EQUITY,APARTMENT INVT & MGMT CO -A,Financial,REITS,6294783782.62,40.01,Terry Considine,7/1/1994,6350609,1-303-757-8101,www.aimco.com
+AIZ UN  EQUITY,ASSURANT INC,Financial,Insurance,4768440324.96,90.87,Alan B Colberg,1/1/2015,7797881,1-212-859-7000,www.assurant.com
+AJG UN  EQUITY,ARTHUR J GALLAGHER & CO,Financial,Insurance,12844960800.00,70.8,J Patrick Gallagher Jr,1/1/1995,5739167,1-630-773-3800,www.ajg.com
+AKAM UW  EQUITY,AKAMAI TECHNOLOGIES INC,Technology,Software,12488819918.25,73.45,F Thomson Leighton,1/1/2013,6258770,1-617-444-3000,www.akamai.com
+ALB UN  EQUITY,ALBEMARLE CORP,Basic Materials,Chemicals,10563759110.52,95.64,"Luther C Kissam IV ""Luke""",9/1/2011,8434150,1-980-299-5700,www.albemarle.com
+ALGN UW  EQUITY,ALIGN TECHNOLOGY INC,"Consumer, Non-cyclical",Healthcare-Products,21525123861.69,268.61,"Joseph M Hogan ""Joe""",6/1/2015,8992261,1-408-470-1000,www.aligntech.com
+ALK UN  EQUITY,ALASKA AIR GROUP INC,"Consumer, Cyclical",Airlines,8026712440.00,65.04,"Bradley D Tilden ""Brad""",5/15/2012,4246312,1-206-392-5040,www.alaskaair.com
+ALL UN  EQUITY,ALLSTATE CORP,Financial,Insurance,34463960576.85,97.23,Thomas Wilson,1/1/2007,13813515,1-847-402-5000,www.allstate.com
+ALLE UN  EQUITY,ALLEGION PLC,Industrial,Electronics,8174523697.84,85.88,"David D Petratis ""Dave""",8/5/2013,7129492,353-1-254-6200,www.allegion.com
+ALXN UW  EQUITY,ALEXION PHARMACEUTICALS INC,"Consumer, Non-cyclical",Biotechnology,26577387481.93,119.96,Ludwig N Hantson,3/27/2017,13688121,1-475-230-2596,www.alexion.com
+AMAT UW  EQUITY,APPLIED MATERIALS INC,Technology,Semiconductors,62137658809.14,59.22,Gary E Dickerson,9/1/2013,15322705,1-408-727-5555,www.appliedmaterials.com
+AMD UR  EQUITY,ADVANCED MICRO DEVICES,Technology,Semiconductors,10902732052.50,11.255,Lisa T Su,10/8/2014,10894821,1-408-749-4000,www.amd.com
+AME UN  EQUITY,AMETEK INC,Industrial,Electrical Compo&Equip,18159766806.50,78.48,David A Zapico,5/5/2016,9315035,1-610-647-2121,www.ametekdfs.com
+AMG UN  EQUITY,AFFILIATED MANAGERS GROUP,Financial,Diversified Finan Serv,10313952704.60,189.31,Sean M Healey,1/1/2005,14732572,1-617-747-3300,www.amg-boston.com
+AMGN UW  EQUITY,AMGEN INC,"Consumer, Non-cyclical",Biotechnology,131617899854.36,182.69,Robert A Bradway,5/23/2012,16850001,1-805-447-1000,www.amgen.com
+AMP UN  EQUITY,AMERIPRISE FINANCIAL INC,Financial,Diversified Finan Serv,22876646027.83,156.59,"James M Cracchiolo ""Jim""",9/30/2005,23900309,1-612-671-3131,www.ameriprise.com
+AMT UN  EQUITY,AMERICAN TOWER CORP,Financial,REITS,64575967416.08,146.42,James D Taiclet Jr,10/10/2003,11847397,1-617-375-7500,www.americantower.com
+AMZN UW  EQUITY,AMAZON.COM INC,Communications,Internet,763630670464.20,1578,"Jeffrey P Bezos ""Jeff""",5/1/1996,1681840,1-206-266-1000,www.amazon.com/
+ANDV UN  EQUITY,ANDEAVOR,Energy,Oil&Gas,15482354546.28,101.19,"Gregory J Goff ""Greg""",5/1/2010,19924675,1-210-626-6000,www.andeavor.com
+ANSS UW  EQUITY,ANSYS INC,Technology,Software,13915936383.04,165.92,Ajei S Gopal,1/1/2017,7371075,1-724-820-3700,www.ansys.com
+ANTM UN  EQUITY,ANTHEM INC,"Consumer, Non-cyclical",Healthcare-Services,58670275517.00,229.47,Gail Koziara Boudreaux,11/20/2017,16455697,1-317-488-6000,www.antheminc.com
+AON UN  EQUITY,AON PLC,Financial,Insurance,35735562831.60,145.18,"Gregory C Case ""Greg""",4/4/2005,28077798,44-20-7623-5500,www.aon.com
+AOS UN  EQUITY,SMITH (A.O.) CORP,Industrial,Miscellaneous Manufactur,11268007565.37,65.69,Ajita G Rajendra,1/1/2013,7571163,1-414-359-4000,www.aosmith.com
+APA UN  EQUITY,APACHE CORP,Energy,Oil&Gas,13804596678.18,36.23,John J Christmann,01-01-2014,13416196,1-713-296-6000,www.apachecorp.com
+APC UN  EQUITY,ANADARKO PETROLEUM CORP,Energy,Oil&Gas,31352845982.72,58.91,"R A Walker ""Al""",5/15/2012,18650252,1-832-636-1000,www.anadarko.com
+APD UN  EQUITY,AIR PRODUCTS & CHEMICALS INC,Basic Materials,Chemicals,36405227302.84,166.18,"Seifollah Ghasemi ""Seifi""",6/30/2014,13959767,1-610-481-4911,www.airproducts.com
+APH UN  EQUITY,AMPHENOL CORP-CL A,Industrial,Electronics,27957875545.60,91.5,Richard Adam Norwitt,1/1/2009,7405165,1-203-265-8900,www.amphenol-tcs.com
+APTV UN  EQUITY,APTIV PLC,"Consumer, Cyclical",Auto Parts&Equipment,23260375000.00,87.74,Kevin P Clark,3/1/2015,13800347,44-163-423-4422,www.aptiv.com
+ARE UN  EQUITY,ALEXANDRIA REAL ESTATE EQUIT,Financial,REITS,12815826907.63,126.57,Joel S Marcus,01-01-2014,11307499,1-626-578-0777,www.are.com
+ARNC UN  EQUITY,ARCONIC INC,Industrial,Aerospace/Defense,11572050880.44,23.97,"Charles P Blankenship Jr ""Chip""",1/15/2018,14184485,1-800-278-4825,www.arconic.com
+ATVI UW  EQUITY,ACTIVISION BLIZZARD INC,Technology,Software,54181473371.46,71.45,"Robert A Kotick ""Bobby""",8/10/1992,33065560,1-310-255-2000,www.activision.com
+AVB UN  EQUITY,AVALONBAY COMMUNITIES INC,Financial,REITS,22662853161.44,164.03,"Timothy J Naughton ""Tim""",1/1/2012,6683693,1-703-329-6300,www.avaloncommunities.com
+AVGO UW  EQUITY,BROADCOM LTD,Technology,Semiconductors,99788087235.90,243.05,Hock E Tan,3/1/2006,103211163,1-408-433-8000,www.broadcom.com
+AVY UN  EQUITY,AVERY DENNISON CORP,"Consumer, Non-cyclical",Household Products/Wares,9740512232.64,110.56,Mitchell R Butier,5/1/2016,8959468,1-626-304-2000,www.averydennison.com
+AWK UN  EQUITY,AMERICAN WATER WORKS CO INC,Utilities,Water,14519842378.36,81.32,Susan N Story,5/9/2014,4096532,1-856-346-8200,www.amwater.com
+AXP UN  EQUITY,AMERICAN EXPRESS CO,Financial,Diversified Finan Serv,81842765065.05,95.13,Stephen Joseph Squeri,2/1/2018,18611373,1-212-640-2000,www.americanexpress.com
+AYI UN  EQUITY,ACUITY BRANDS INC,Industrial,Electrical Compo&Equip,6187993512.64,146.78,Vernon J Nagel,9/1/2004,7708901,1-404-853-1400,www.acuitybrands.com
+AZO UN  EQUITY,AUTOZONE INC,"Consumer, Cyclical",Retail,17462163690.49,649.13,"William C Rhodes III ""Bill""",3/13/2005,3335238,1-901-495-6500,www.autozone.com
+BA UN  EQUITY,BOEING CO/THE,Industrial,Aerospace/Defense,198740227289.76,338.29,Dennis A Muilenburg,7/1/2015,25669714,1-312-544-2000,www.boeing.com
+BAC UN  EQUITY,BANK OF AMERICA CORP,Financial,Banks,328191126904.50,32.09,Brian T Moynihan,1/1/2010,21779832,1-704-386-5681,www.bankofamerica.com
+BAX UN  EQUITY,BAXTER INTERNATIONAL INC,"Consumer, Non-cyclical",Healthcare-Products,36054265901.25,66.74,"Jose E Almeida ""Joe""",1/1/2016,5813945,1-847-948-2000,www.baxter.com
+BBT UN  EQUITY,BB&T CORP,Financial,Banks,42661552911.04,54.88,Kelly S King,1/1/2009,12674696,1-336-733-2000,www.bbt.com
+BBY UN  EQUITY,BEST BUY CO INC,"Consumer, Cyclical",Retail,20427775610.36,69.9,Hubert Joly,9/4/2012,14037980,1-612-291-1000,www.bestbuy.com
+BDX UN  EQUITY,BECTON DICKINSON AND CO,"Consumer, Non-cyclical",Healthcare-Products,58440222604.00,219.67,Vincent A Forlenza,10/1/2011,13058840,1-201-847-6800,www.bd.com
+BEN UN  EQUITY,FRANKLIN RESOURCES INC,Financial,Diversified Finan Serv,21146797033.17,38.31,"Gregory Eugene Johnson ""Greg""",1/1/2004,9883215,1-650-312-2000,www.franklinresources.com
+BF/B UN  EQUITY,BROWN-FORMAN CORP-CLASS B,"Consumer, Non-cyclical",Beverages,26430908644.85,55.22,Paul C Varga,8/1/2005,8865000,1-502-585-1100,www.brown-forman.com
+BHF UW  EQUITY,BRIGHTHOUSE FINANCIAL INC,Financial,Insurance,6434211254.32,53.7,Eric T Steigerwalt,8/4/2017,1972094,1-980-365-7100,www.brighthousefinancial.com
+BHGE UN  EQUITY,BAKER HUGHES A GE CO,Energy,Oil&Gas Services,34180671033.28,30.27,Lorenzo Simonelli,01-01-2014,17613367,1-713-439-8600,www.bhge.com
+BIIB UW  EQUITY,BIOGEN INC,"Consumer, Non-cyclical",Biotechnology,59064070677.48,279.26,Michel Vounatsos,1/6/2017,17733788,1-781-464-2000,www.biogen.com
+BK UN  EQUITY,BANK OF NEW YORK MELLON CORP,Financial,Banks,54800461912.77,54.39,"Charles W Scharf ""Charlie""",7/17/2017,36183185,1-212-495-1784,www.bnymellon.com
+BKNG UW  EQUITY,BOOKING HOLDINGS INC,Communications,Internet,104064813075.52,2155.06,Glenn D Fogel,1/1/2017,16846213,1-203-299-8000,www.bookingholdings.com
+BLK UN  EQUITY,BLACKROCK INC,Financial,Diversified Finan Serv,89972468010.78,554.57,Laurence Douglas Fink,1/1/1988,25472831,1-212-810-5300,www.blackrock.com
+BLL UN  EQUITY,BALL CORP,Industrial,Packaging&Containers,13944978370.44,39.8,John A Hayes,1/26/2011,12932654,1-303-469-3131,www.ball.com
+BMY UN  EQUITY,BRISTOL-MYERS SQUIBB CO,"Consumer, Non-cyclical",Pharmaceuticals,108372819882.60,66.27,Giovanni Caforio,5/5/2015,16933858,1-212-546-4000,www.bms.com
+BRK/B UN  EQUITY,BERKSHIRE HATHAWAY INC-CL B,Financial,Insurance,503584073623.57,204.08,Warren E Buffett,1/1/1970,100000,1-402-346-1400,www.berkshirehathaway.com
+BSX UN  EQUITY,BOSTON SCIENTIFIC CORP,"Consumer, Non-cyclical",Healthcare-Products,37988785321.11,27.63,"Michael F Mahoney ""Mike""",11/1/2012,12026183,1-508-683-4000,www.bostonscientific.com
+BWA UN  EQUITY,BORGWARNER INC,"Consumer, Cyclical",Auto Parts&Equipment,10545967329.84,50.04,James R Verrier,1/1/2013,14085523,1-248-754-9200,www.borgwarner.com
+BXP UN  EQUITY,BOSTON PROPERTIES INC,Financial,REITS,19406662561.40,125.74,Owen D Thomas,4/2/2013,10002021,1-617-236-3300,www.bostonproperties.com
+C UN  EQUITY,CITIGROUP INC,Financial,Banks,187390225613.89,73.19,"Michael L Corbat ""Mike""",10/1/2012,17801683,1-212-559-1000,www.citigroup.com
+CA UW  EQUITY,CA INC,Technology,Software,14729932127.32,35.33,"Michael P Gregoire ""Mike""",1/7/2013,11937722,1-800-225-5224,www.ca.com
+CAG UN  EQUITY,CONAGRA BRANDS INC,"Consumer, Non-cyclical",Food,14543988782.40,36.31,Sean M Connolly,4/6/2015,9768277,1-312-549-5000,www.conagrabrands.com
+CAH UN  EQUITY,CARDINAL HEALTH INC,"Consumer, Non-cyclical",Pharmaceuticals,20676244249.80,65.72,"Michael C Kaufmann ""Mike""",1/1/2018,10985177,1-614-757-5000,www.cardinalhealth.com
+CAT UN  EQUITY,CATERPILLAR INC,Industrial,Machinery-Constr&Mining,92135965269.24,154.2,"D James Umpleby III ""Jim""",1/1/2017,15472514,1-309-675-1000,www.cat.com
+CB UN  EQUITY,CHUBB LTD,Financial,Insurance,65794217079.58,141.74,Evan G Greenberg,5/27/2004,24419486,41-43-456-7600,www.new.chubb.com
+CBOE UW  EQUITY,CBOE GLOBAL MARKETS INC,Financial,Diversified Finan Serv,13603486861.50,120.7,"Edward T Tilly ""Ed""",5/1/2013,5953583,1-312-786-5600,www.bats.com
+CBRE UN  EQUITY,CBRE GROUP INC - A,Financial,Real Estate,16102872835.11,47.43,"Robert E Sulentic ""Bob""",12/1/2012,4960794,1-213-613-3333,www.cbre.com
+CBS UN  EQUITY,CBS CORP-CLASS B NON VOTING,Communications,Media,19321344926.06,50.51,"Leslie Moonves ""Les""",1/3/2006,69550657,1-212-975-4321,www.cbscorporation.com
+CCI UN  EQUITY,CROWN CASTLE INTL CORP,Financial,REITS,45203418702.20,108.96,Jay A Brown,6/1/2016,16739031,1-713-570-3000,www.crowncastle.com
+CCL UN  EQUITY,CARNIVAL CORP,"Consumer, Cyclical",Leisure Time,48308848173.84,67.82,Arnold W Donald,7/1/2013,13046075,1-305-599-2600,www.carnivalcorp.com
+CDNS UW  EQUITY,CADENCE DESIGN SYS INC,Technology,Software,10733464205.00,37.95,Lip-Bu Tan,1/1/2009,7610736,1-408-943-1234,www.cadence.com
+CELG UW  EQUITY,CELGENE CORP,"Consumer, Non-cyclical",Biotechnology,65657408822.32,87.37,Mark J Alles,3/1/2016,28718654,1-908-673-9000,www.celgene.com
+CERN UW  EQUITY,CERNER CORP,Technology,Software,19736325146.82,59.38,Brent Shafer,2/1/2018,6083664,1-816-201-1024,www.cerner.com
+CF UN  EQUITY,CF INDUSTRIES HOLDINGS INC,Basic Materials,Chemicals,8921087953.76,38.24,"W Anthony Will ""Tony""",1/2/2014,6437513,1-847-405-2400,www.cfindustries.com
+CFG UN  EQUITY,CITIZENS FINANCIAL GROUP,Financial,Banks,21918002519.28,44.91,Bruce Van Saun,10/1/2013,8549989,1-401-456-7000,www.citizensbank.com
+CHD UN  EQUITY,CHURCH & DWIGHT CO INC,"Consumer, Non-cyclical",Household Products/Wares,12116005788.39,49.64,"Matthew T Farrell ""Matt""",1/1/2016,6537885,1-609-806-1200,www.churchdwight.com
+CHRW UW  EQUITY,C.H. ROBINSON WORLDWIDE INC,Industrial,Transportation,13038562480.20,93.3,John P Wiehoff,5/7/2002,6321399,1-952-937-8500,www.chrobinson.com
+CHTR UW  EQUITY,CHARTER COMMUNICATIONS INC-A,Communications,Media,87593816939.95,332.29,"Thomas M Rutledge ""Tom""",2/13/2012,7813316,1-203-905-7801,www.charter.com
+CI UN  EQUITY,CIGNA CORP,"Consumer, Non-cyclical",Healthcare-Services,40216875518.82,165.27,David M Cordani,1/1/2010,17595792,1-860-226-6000,www.cigna.com
+CINF UW  EQUITY,CINCINNATI FINANCIAL CORP,Financial,Insurance,12363079294.02,75.39,Steven J Johnston,5/2/2011,4249903,1-513-870-2000,www.cinfin.com
+CL UN  EQUITY,COLGATE-PALMOLIVE CO,"Consumer, Non-cyclical",Cosmetics/Personal Care,61071546370.72,69.75,Ian M Cook,7/2/2007,14690306,1-212-310-2000,www.colgatepalmolive.com
+CLX UN  EQUITY,CLOROX COMPANY,"Consumer, Non-cyclical",Household Products/Wares,16553358400.80,127.92,Benno Dorer,11/20/2014,8068890,1-510-271-7000,www.thecloroxcompany.com
+CMA UN  EQUITY,COMERICA INC,Financial,Banks,17090124887.37,98.99,Ralph W Babb Jr,1/1/2002,12095114,1-214-462-6831,www.comerica.com
+CMCSA UW  EQUITY,COMCAST CORP-CLASS A,Communications,Media,162116552334.72,34.91,Brian L Roberts,11/1/2002,32963491,1-800-934-6489,corporate.comcast.com
+CME UW  EQUITY,CME GROUP INC,Financial,Diversified Finan Serv,56092091115.15,164.79,Terrence A Duffy,12/31/2016,8400480,1-312-930-1000,www.cmegroup.com
+CMG UN  EQUITY,CHIPOTLE MEXICAN GRILL INC,"Consumer, Cyclical",Retail,8999133638.40,322.2,Brian R Niccol,3/5/2018,31142356,1-303-595-4000,www.chipotle.com
+CMI UN  EQUITY,CUMMINS INC,Industrial,Machinery-Diversified,26499766343.19,160.53,"N Thomas Linebarger ""Tom""",1/1/2012,13419856,1-812-377-5000,www.cummins.com
+CMS UN  EQUITY,CMS ENERGY CORP,Utilities,Electric,12395431619.34,43.9,"Patricia Kessler Poppe ""Patti""",7/1/2016,13702596,1-517-788-0550,www.cmsenergy.com
+CNC UN  EQUITY,CENTENE CORP,"Consumer, Non-cyclical",Healthcare-Services,18083956481.08,103.33,Michael F Neidorff,5/1/1996,25259468,1-314-725-4477,www.centene.com
+CNP UN  EQUITY,CENTERPOINT ENERGY INC,Utilities,Electric,11537531411.42,26.74,Scott M Prochazka,1/1/2014,8024525,1-713-207-1111,www.centerpointenergy.com
+COF UN  EQUITY,CAPITAL ONE FINANCIAL CORP,Financial,Banks,48156977067.82,99.01,Richard Dana Fairbank,7/26/1994,16921137,1-877-383-4802,www.capitalone.com
+COG UN  EQUITY,CABOT OIL & GAS CORP,Energy,Oil&Gas,11160242635.92,24.2,Dan O Dinges,5/2/2002,11311837,1-281-589-4600,www.cabotog.com
+COL UN  EQUITY,ROCKWELL COLLINS INC,Industrial,Aerospace/Defense,22339910154.65,136.45,"Robert K Ortberg ""Kelly""",8/1/2013,8073347,1-319-295-1000,www.rockwellcollins.com
+COO UN  EQUITY,COOPER COS INC/THE,"Consumer, Non-cyclical",Healthcare-Products,11315331671.58,230.89,Robert S Weiss,11/1/2007,6557113,1-925-460-3600,www.coopercos.com
+COP UN  EQUITY,CONOCOPHILLIPS,Energy,Oil&Gas,64554779729.76,54.99,Ryan M Lance,4/1/2012,19212038,1-281-293-1000,www.conocophillips.com
+COST UW  EQUITY,COSTCO WHOLESALE CORP,"Consumer, Cyclical",Retail,81774157687.20,186.35,W Craig Jelinek,1/1/2012,6620969,1-425-313-8100,www.costco.com
+COTY UN  EQUITY,COTY INC-CL A,"Consumer, Non-cyclical",Cosmetics/Personal Care,13838748886.13,18.455,Camillo Pane,9/1/2016,12419073,1-212-389-7300,www.coty.com
+CPB UN  EQUITY,CAMPBELL SOUP CO,"Consumer, Non-cyclical",Food,12900204425.08,42.91,Denise M Morrison,8/1/2011,8923761,1-856-342-4800,www.campbellsoups.com
+CRM UN  EQUITY,SALESFORCE.COM INC,Technology,Software,92037330000.00,125.84,Marc R Benioff,11/1/2001,13170047,1-415-901-7000,www.salesforce.com
+CSCO UW  EQUITY,CISCO SYSTEMS INC,Communications,Telecommunications,213391933675.95,44.28,"Charles H Robbins ""Chuck""",7/26/2015,16747107,1-408-526-4000,www.cisco.com
+CSRA UN  EQUITY,CSRA INC,Technology,Computers,6783260280.04,41.38,"Lawrence B Prior III ""Larry""",11/27/2015,8968078,1-703-641-2000,www.csra.com
+CSX UW  EQUITY,CSX CORP,Industrial,Transportation,50705541972.00,57.15,"James M Foote ""Jim""",12/14/2017,13580104,1-904-359-3200,www.csx.com
+CTAS UW  EQUITY,CINTAS CORP,"Consumer, Non-cyclical",Commercial Services,18522661698.06,173.94,Scott D Farmer,7/10/2003,8550621,1-513-459-1200,www.cintas-corp.com
+CTL UN  EQUITY,CENTURYLINK INC,Communications,Telecommunications,17486889224.98,16.35,Glen F Post III,5/10/1999,13966214,1-318-388-9000,www.centurylink.com
+CTSH UW  EQUITY,COGNIZANT TECH SOLUTIONS-A,Technology,Computers,49560966345.24,84.3,Francisco D'Souza,1/1/2007,8256640,1-201-801-0233,www.cognizant.com
+CTXS UW  EQUITY,CITRIX SYSTEMS INC,Technology,Software,12898932097.44,94.72,David James Henshall,10/16/2013,23418804,1-954-267-3000,www.citrix.com
+CVS UN  EQUITY,CVS HEALTH CORP,"Consumer, Non-cyclical",Pharmaceuticals,63367678526.22,62.45,Larry J Merlo,3/1/2011,18359377,1-401-765-1500,www.cvshealth.com
+CVX UN  EQUITY,CHEVRON CORP,Energy,Oil&Gas,219067843398.08,114.69,"Michael K Wirth ""Mike""",2/1/2018,24657491,1-925-842-1000,www.chevron.com
+CXO UN  EQUITY,CONCHO RESOURCES INC,Energy,Oil&Gas,22217072662.08,149.17,"Timothy A Leach ""Tim""",01-01-2014,10810237,1-432-683-7443,www.concho.com
+D UN  EQUITY,DOMINION ENERGY INC,Utilities,Electric,44629439758.00,68.51,Thomas F Farrell II,1/1/2006,13285854,1-888-216-3718,www.dominionenergy.com
+DAL UN  EQUITY,DELTA AIR LINES INC,"Consumer, Cyclical",Airlines,39898189925.52,56.379,"Edward H Bastian ""Ed""",5/2/2016,17909108,1-404-715-2191,www.delta.com
+DE UN  EQUITY,DEERE & CO,Industrial,Machinery-Diversified,51909668432.64,160.29,"Samuel R Allen ""Sam""",8/1/2009,16052192,1-309-765-8000,www.deere.lu
+DFS UN  EQUITY,DISCOVER FINANCIAL SERVICES,Financial,Diversified Finan Serv,26809731609.29,75.83,David W Nelms,1/1/2004,8776023,1-224-405-0900,www.discover.com
+DG UN  EQUITY,DOLLAR GENERAL CORP,"Consumer, Cyclical",Retail,25328736692.19,93.27,Todd J Vasos,6/3/2015,8593288,1-615-855-4000,www.dollargeneral.com
+DGX UN  EQUITY,QUEST DIAGNOSTICS INC,"Consumer, Non-cyclical",Healthcare-Services,14141602449.52,104.26,"Stephen H Rusckowski ""Steve""",5/1/2012,10252595,1-973-520-2700,www.questdiagnostics.com
+DHI UN  EQUITY,DR HORTON INC,"Consumer, Cyclical",Home Builders,16281122398.68,43.31,David V Auld,10/1/2014,10405953,1-817-390-8200,www.drhorton.com
+DHR UN  EQUITY,DANAHER CORP,"Consumer, Non-cyclical",Healthcare-Products,70140610208.50,100.53,Thomas P Joyce Jr,9/9/2014,12968801,1-202-828-0850,www.danaher.com
+DIS UN  EQUITY,WALT DISNEY CO/THE,Communications,Media,152547877344.55,101.448,"Robert A Iger ""Bob""",10/2/2005,36283680,1-818-560-1000,thewaltdisneycompany.com
+DISCA UW  EQUITY,DISCOVERY COMMUNICATIONS-A,Communications,Media,15202282990.57,22.25,David M Zaslav,1/1/2007,37192354,1-240-662-2000,corporate.discovery.com
+DISCK UW  EQUITY,DISCOVERY COMMUNICATIONS-C,Communications,Media,15200356230.37,20.57,David M Zaslav,1/1/2007,37192354,1-240-662-2000,corporate.discovery.com
+DISH UW  EQUITY,DISH NETWORK CORP-A,Communications,Media,18187887153.10,38.99,W Erik Carlson,12/5/2017,1656833,1-303-723-1000,www.dish.com
+DLR UN  EQUITY,DIGITAL REALTY TRUST INC,Financial,REITS,22440851442.00,104.83,"Arthur William Stein ""Bill""",01-01-2014,8251982,1-415-738-6500,www.digitalrealty.com
+DLTR UW  EQUITY,DOLLAR TREE INC,"Consumer, Cyclical",Retail,22421131825.53,94.51,Gary M Philbin,9/18/2017,10582038,1-757-321-5000,www.dollartree.com
+DOV UN  EQUITY,DOVER CORP,Industrial,Miscellaneous Manufactur,16050915490.95,103.91,Robert A Livingston,12/1/2008,8293255,1-630-541-1540,www.dovercorporation.com
+DPS UN  EQUITY,DR PEPPER SNAPPLE GROUP INC,"Consumer, Non-cyclical",Beverages,21179244710.74,117.83,Larry D Young,10/1/2007,8921147,1-972-673-7000,www.drpeppersnapplegroup.com
+DRE UN  EQUITY,DUKE REALTY CORP,Financial,REITS,9281753780.00,26,"James B Connor ""Jim""",12/31/2015,6200313,1-317-808-6000,www.dukerealty.com
+DRI UN  EQUITY,DARDEN RESTAURANTS INC,"Consumer, Cyclical",Retail,11799950199.84,95.5,"Eugene I Lee Jr ""Gene""",10/14/2014,6361776,1-407-245-4000,www.darden.com
+DTE UN  EQUITY,DTE ENERGY COMPANY,Utilities,Electric,18344809468.89,102.08,"Gerard M Anderson ""Gerry""",9/1/2010,12498939,1-313-235-4000,www.newlook.dteenergy.com
+DUK UN  EQUITY,DUKE ENERGY CORP,Utilities,Electric,53575288743.93,76.49,Lynn J Good,6/1/2013,13793594,1-704-382-3853,www.duke-energy.com
+DVA UN  EQUITY,DAVITA INC,"Consumer, Non-cyclical",Healthcare-Services,12141039978.12,66.6,Kent J Thiry,10/9/1999,12296671,1-303-405-2100,www.davita.com
+DVN UN  EQUITY,DEVON ENERGY CORP,Energy,Oil&Gas,16566889000.00,31.5,"David A Hager ""Dave""",8/1/2015,8771358,1-405-235-3611,www.devonenergy.com
+DWDP UN  EQUITY,DOWDUPONT INC,Basic Materials,Chemicals,154442762541.60,66.42,"Edward D Breen ""Ed""",9/1/2017,13792002,1-302-774-1000,www.dow-dupont.com
+DXC UN  EQUITY,DXC TECHNOLOGY CO,Technology,Computers,30691447336.95,107.39,"J Michael Lawrie ""Mike""",4/1/2017,13768436,1-650-687-5817,www.dxc.technology
+EA UW  EQUITY,ELECTRONIC ARTS INC,Technology,Software,39018868243.95,127.23,Andrew Wilson,9/17/2013,19972718,1-650-628-1500,www.ea.com
+EBAY UW  EQUITY,EBAY INC,Communications,Internet,42466863079.08,41.94,Devin N Wenig,7/17/2015,15941192,1-408-376-7400,www.ebayinc.com
+ECL UN  EQUITY,ECOLAB INC,"Consumer, Non-cyclical",Commercial Services,39356636809.66,136.47,Douglas M Baker Jr,7/1/2004,14383229,1-651-293-2233,www.ecolab.com
+ED UN  EQUITY,CONSOLIDATED EDISON INC,Utilities,Electric,23826079093.20,76.79,John J Mcavoy,1/1/2014,14802404,1-212-460-4600,www.conedison.com
+EFX UN  EQUITY,EQUIFAX INC,"Consumer, Non-cyclical",Commercial Services,14800462269.12,123.21,Paulino Do Rego Barros Jr,9/26/2017,14964563,1-404-885-8000,www.equifax.com
+EIX UN  EQUITY,EDISON INTERNATIONAL,Utilities,Electric,20542396538.30,63.05,Pedro J Pizarro,9/30/2016,9754920,1-626-302-2222,www.edison.com
+EL UN  EQUITY,ESTEE LAUDER COMPANIES-CL A,"Consumer, Non-cyclical",Cosmetics/Personal Care,54302301217.60,147.65,Fabrizio Freda,7/1/2009,18983239,1-212-572-4200,www.elcompanies.com
+EMN UN  EQUITY,EASTMAN CHEMICAL CO,Basic Materials,Chemicals,15241677648.19,106.61,Mark J Costa,1/1/2014,11398067,1-423-229-2000,www.eastman.com
+EMR UN  EQUITY,EMERSON ELECTRIC CO,Industrial,Electrical Compo&Equip,45048074747.76,70.97,David N Farr,10/1/2000,12548528,1-314-553-2000,www.emerson.com
+EOG UN  EQUITY,EOG RESOURCES INC,Energy,Oil&Gas,58714384567.43,101.5,"William R Thomas ""Bill""",7/1/2013,10559647,1-713-651-7000,www.eogresources.com
+EQIX UW  EQUITY,EQUINIX INC,Financial,REITS,32838451282.56,414.41,Peter F Van Camp,5/1/2000,12048504,1-650-598-6000,www.equinix.com
+EQR UN  EQUITY,EQUITY RESIDENTIAL,Financial,REITS,22101219347.13,60.03,David J Neithercut,1/1/2006,8673704,1-312-474-1300,www.equityapartments.com
+EQT UN  EQUITY,EQT CORP,Energy,Oil&Gas,12821651040.00,48.49,David L Porges,4/21/2010,9778648,1-412-553-5700,www.eqt.com
+ES UN  EQUITY,EVERSOURCE ENERGY,Utilities,Electric,18306493128.16,57.77,"James J Judge ""Jim""",5/4/2016,15915461,1-800-286-5000,www.eversource.com
+ESRX UW  EQUITY,EXPRESS SCRIPTS HOLDING CO,"Consumer, Non-cyclical",Pharmaceuticals,40639159946.45,72.41,"Timothy C Wentworth ""Tim""",5/4/2016,26438979,1-314-996-0900,www.express-scripts.com
+ESS UN  EQUITY,ESSEX PROPERTY TRUST INC,Financial,REITS,15852974735.15,240.14,"Michael J Schall ""Mike""",1/1/2011,4031344,1-650-655-7800,www.essexapartmenthomes.com
+ETFC UW  EQUITY,E*TRADE FINANCIAL CORP,Financial,Diversified Finan Serv,15218344187.60,57.12,Karl A Roessner,9/12/2016,15484310,1-646-521-4418,us.etrade.com
+ETN UN  EQUITY,EATON CORP PLC,Industrial,Miscellaneous Manufactur,35547690240.12,81.13,Craig Arnold,6/1/2016,15178141,1-440-523-4205,www.eaton.com
+ETR UN  EQUITY,ENTERGY CORP,Utilities,Electric,14199513584.65,78.61,Leo P Denault,2/1/2013,13158220,1-504-576-4000,www.entergy.com
+EVHC UN  EQUITY,ENVISION HEALTHCARE CORP,"Consumer, Non-cyclical",Healthcare-Services,4623000635.93,38.2,Christopher A Holden,12/2/2016,21726391,1-615-665-1283,www.evhc.net
+EW UN  EQUITY,EDWARDS LIFESCIENCES CORP,"Consumer, Non-cyclical",Healthcare-Products,29701552785.36,141.42,"Michael A Mussallem ""Mike""",1/1/2000,9734099,1-949-250-2500,www.edwards.com
+EXC UN  EQUITY,EXELON CORP,Utilities,Electric,36873773335.79,38.21,"Christopher M Crane ""Chris""",3/12/2012,15231701,1-800-483-3220,www.exeloncorp.com
+EXPD UW  EQUITY,EXPEDITORS INTL WASH INC,Industrial,Transportation,11363980410.31,64.37,"Jeffrey S Musser ""Jeff""",3/1/2014,5186082,1-206-674-3400,www.expeditors.com
+EXPE UW  EQUITY,EXPEDIA INC,Communications,Internet,16647014195.28,109.51,Mark D Okerstrom,8/30/2017,2448688,1-425-679-7200,www.expediainc.com
+EXR UN  EQUITY,EXTRA SPACE STORAGE INC,Financial,REITS,10786291646.24,85.58,"Joseph D Margolis ""Joe""",1/1/2017,3171536,1-801-365-4600,www.extraspace.com
+F UN  EQUITY,FORD MOTOR CO,"Consumer, Cyclical",Auto Manufacturers,43806202007.40,11.02,"James P Hackett ""Jim""",5/22/2017,22102498,1-313-322-3000,www.ford.com
+FAST UW  EQUITY,FASTENAL CO,"Consumer, Cyclical",Distribution/Wholesale,16338381635.20,56.8,Daniel L Florness,1/1/2016,2039356,1-507-454-5374,www.fastenal.com
+FB UW  EQUITY,FACEBOOK INC-A,Communications,Internet,482086543287.36,164.39,Mark Elliot Zuckerberg,2/4/2004,5765832,1-650-618-7714,www.facebook.com
+FBHS UN  EQUITY,FORTUNE BRANDS HOME & SECURI,Industrial,Building Materials,9005415850.08,60.84,"Christopher J Klein ""Chris""",8/26/2011,9372432,1-847-484-4400,www.fortunebrands.com
+FCX UN  EQUITY,FREEPORT-MCMORAN INC,Basic Materials,Mining,26683778613.49,18.42,Richard C Adkerson,12/1/2003,24003605,1-602-366-8100,www.fcx.com
+FDX UN  EQUITY,FEDEX CORP,Industrial,Transportation,67553726231.91,252,"Frederick Wallace Smith ""Fred""",1/21/2000,15605597,1-901-818-7500,www.fedex.com
+FE UN  EQUITY,FIRSTENERGY CORP,Utilities,Electric,16036889033.88,33.73,"Charles E Jones Jr ""Chuck""",1/1/2015,14117391,1-800-736-3402,www.firstenergycorp.com
+FFIV UW  EQUITY,F5 NETWORKS INC,Communications,Internet,9205545340.55,148.85,Francois Locoh-Donou,4/3/2017,18296349,1-206-272-5555,www.f5.com
+FIS UN  EQUITY,FIDELITY NATIONAL INFO SERV,Technology,Software,33323262474.06,100.62,Gary A Norcross,1/1/2015,20020448,1-904-438-6000,www.fisglobal.com
+FISV UW  EQUITY,FISERV INC,Technology,Software,30276316390.56,73.23,Jeffery W Yabuki,12/1/2005,21241782,1-262-879-5000,www.fiserv.com
+FITB UW  EQUITY,FIFTH THIRD BANCORP,Financial,Banks,23103203079.39,33.63,Greg D Carmichael,11/1/2015,8688292,1-800-972-3030,www.53.com
+FL UN  EQUITY,FOOT LOCKER INC,"Consumer, Cyclical",Retail,5300320406.97,43.73,"Richard A Johnson ""Dick""",12/1/2014,12581436,1-212-720-3700,www.footlocker-inc.com
+FLIR UW  EQUITY,FLIR SYSTEMS INC,Industrial,Electronics,6905698535.55,49.71,James J Cannon,6/19/2017,11725704,1-503-498-3547,www.flir.com
+FLR UN  EQUITY,FLUOR CORP,Industrial,Engineering&Construction,8052033377.45,57.55,David Thomas Seaton,2/2/2011,10253787,1-469-398-7000,www.fluor.com
+FLS UN  EQUITY,FLOWSERVE CORP,Industrial,Machinery-Diversified,5798267626.58,44.33,R Scott Rowe,4/1/2017,6564663,1-972-443-6500,www.flowserve.com
+FMC UN  EQUITY,FMC CORP,Basic Materials,Chemicals,10840704133.26,80.47,Pierre R Brondeau,1/1/2010,13011873,1-215-299-6000,www.fmc.com
+FOX UW  EQUITY,TWENTY-FIRST CENTURY FOX - B,Communications,Media,67728639703.67,36.24,James Rupert Murdoch,7/1/2015,20315944,1-212-852-7000,www.21cf.com
+FOXA UW  EQUITY,TWENTY-FIRST CENTURY FOX-A,Communications,Media,67723369659.48,36.79,James Rupert Murdoch,7/1/2015,20315944,1-212-852-7000,www.21cf.com
+FRT UN  EQUITY,FEDERAL REALTY INVS TRUST,Financial,REITS,8376175563.44,114.57,"Donald C Wood ""Don""",1/1/2003,9496740,1-301-998-8100,www.federalrealty.com
+FTI UN  EQUITY,TECHNIPFMC PLC,Energy,Oil&Gas Services,13836173449.89,29.86,Douglas J Pferdehirt,01-01-2014,12911424,44-20-3429-3950,www.technipfmc.com
+FTV UN  EQUITY,FORTIVE CORP,Industrial,Electronics,27226516292.42,78.23,"James A Lico ""Jim""",01-01-2014,10592788,1-425-446-5000,www.fortive.com
+GD UN  EQUITY,GENERAL DYNAMICS CORP,Industrial,Aerospace/Defense,67006040914.86,225.54,Phebe N Novakovic,1/1/2013,21358077,1-703-876-3000,www.generaldynamics.com
+GE UN  EQUITY,GENERAL ELECTRIC CO,Industrial,Miscellaneous Manufactur,119094371674.53,13.715,John L Flannery,8/1/2017,17111870,1-203-373-2211,www.ge.com
+GGP UN  EQUITY,GGP INC,Financial,REITS,20327050829.16,21.25,Sandeep Lakhmi Mathrani,1/17/2011,12748988,1-312-960-5000,www.ggp.com
+GILD UW  EQUITY,GILEAD SCIENCES INC,"Consumer, Non-cyclical",Biotechnology,100729080000.00,76.99,John F Milligan,3/10/2016,24377584,1-650-574-3000,www.gilead.com
+GIS UN  EQUITY,GENERAL MILLS INC,"Consumer, Non-cyclical",Food,28335535473.26,49.81,"Jeffrey L Harmening ""Jeff""",6/1/2017,9164524,1-763-764-2268,www.generalmills.com
+GLW UN  EQUITY,CORNING INC,Industrial,Electronics,24814521813.72,29.21,Wendell P Weeks,4/28/2005,16868575,1-607-974-9000,www.corning.com
+GM UN  EQUITY,GENERAL MOTORS CO,"Consumer, Cyclical",Auto Manufacturers,52001469598.19,37.135,Mary T Barra,1/15/2014,22582059,1-313-667-1500,www.gm.com
+GOOG UW  EQUITY,ALPHABET INC-CL C,Communications,Internet,762230582328.22,1096.42,"Lawrence E Page ""Larry""",10/2/2015,15248993,1-650-253-0000,www.abc.xyz
+GOOGL UW  EQUITY,ALPHABET INC-CL A,Communications,Internet,762250866637.87,1095.67,"Lawrence E Page ""Larry""",10/2/2015,15103881,1-650-253-0000,www.abc.xyz
+GPC UN  EQUITY,GENUINE PARTS CO,"Consumer, Cyclical",Retail,13229591896.64,90.2,Paul D Donahue,5/1/2016,4919486,1-770-953-1700,www.genpt.com
+GPN UN  EQUITY,GLOBAL PAYMENTS INC,"Consumer, Non-cyclical",Commercial Services,18687487074.30,117.09,Jeffrey Steven Sloan,10/1/2013,9135783,1-770-829-8000,www.globalpaymentsinc.com
+GPS UN  EQUITY,GAP INC/THE,"Consumer, Cyclical",Retail,12657297726.15,32.54,"Arthur L Peck ""Art""",2/1/2015,8906166,1-650-952-4400,www.gapinc.com
+GRMN UW  EQUITY,GARMIN LTD,Industrial,Electronics,11283812440.00,59.96,Clifton A Pemble,1/1/2013,2121889,41-52-630-1600,www.garmin.com
+GS UN  EQUITY,GOLDMAN SACHS GROUP INC,Financial,Banks,103853030926.56,263.26,Lloyd Craig Blankfein,6/1/2006,20206898,1-212-902-0300,www.goldmansachs.com
+GT UW  EQUITY,GOODYEAR TIRE & RUBBER CO,"Consumer, Cyclical",Auto Parts&Equipment,6755051739.20,28.09,"Richard J Kramer ""Rich""",4/13/2010,10845759,1-330-796-2121,www.goodyear.com
+GWW UN  EQUITY,WW GRAINGER INC,"Consumer, Cyclical",Distribution/Wholesale,16186489068.75,288.75,"Donald G Macpherson ""Dg""",10/1/2016,6966359,1-847-535-1000,www.grainger.com
+HAL UN  EQUITY,HALLIBURTON CO,Energy,Oil&Gas Services,39799648348.66,45.51,"Jeffrey Allen Miller ""Jeff""",6/1/2017,17846913,1-281-871-2699,www.halliburton.com
+HAS UW  EQUITY,HASBRO INC,"Consumer, Cyclical",Toys/Games/Hobbies,10607257511.02,85.42,Brian D Goldner,5/22/2008,10542242,1-401-431-8697,www.hasbro.com
+HBAN UW  EQUITY,HUNTINGTON BANCSHARES INC,Financial,Banks,17040887003.38,15.87,Stephen D Steinour,1/14/2009,8679970,1-614-480-8300,www.huntington.com
+HBI UN  EQUITY,HANESBRANDS INC,"Consumer, Cyclical",Apparel,6886358901.24,19.11,Gerald W Evans Jr,10/1/2016,9581985,1-336-519-8080,www.hanes.com
+HCA UN  EQUITY,HCA HEALTHCARE INC,"Consumer, Non-cyclical",Healthcare-Services,35404915765.52,100.53,R Milton Johnson,1/1/2014,17268724,1-615-344-9551,www.hcahealthcare.com
+HCP UN  EQUITY,HCP INC,Financial,REITS,10578630165.48,22.535,"Thomas M Herzog ""Tom""",1/1/2017,12491509,1-949-407-0700,www.hcpi.com
+HD UN  EQUITY,HOME DEPOT INC,"Consumer, Cyclical",Retail,207392154734.40,177.6,Craig A Menear,11/1/2014,11471601,1-770-433-8211,www.homedepot.com
+HES UN  EQUITY,HESS CORP,Energy,Oil&Gas,15229691749.10,48.38,John B Hess,5/1/1995,11705332,1-212-997-8500,www.hess.com
+HIG UN  EQUITY,HARTFORD FINANCIAL SVCS GRP,Financial,Insurance,19212738248.34,53.81,Christopher J Swift,7/1/2014,10079121,1-860-547-5000,www.thehartford.com
+HII UN  EQUITY,HUNTINGTON INGALLS INDUSTRIE,Industrial,Shipbuilding,11491582263.84,256.59,"C Michael Petters ""Mike""",3/31/2011,7206236,1-757-380-2000,www.huntingtoningalls.com
+HLT UN  EQUITY,HILTON WORLDWIDE HOLDINGS IN,"Consumer, Cyclical",Lodging,25744659285.60,81.45,Christopher J Nassetta,12/1/2007,11001328,1-703-883-1000,www.hiltonworldwide.com
+HOG UN  EQUITY,HARLEY-DAVIDSON INC,"Consumer, Cyclical",Leisure Time,7157581357.50,42.5,"Matthew S Levatich ""Matt""",5/1/2015,9350303,1-414-342-4680,www.harley-davidson.com
+HOLX UW  EQUITY,HOLOGIC INC,"Consumer, Non-cyclical",Healthcare-Products,10490424915.30,37.95,Stephen P Macmillan,12/7/2013,11204908,1-508-263-2900,www.hologic.com
+HON UN  EQUITY,HONEYWELL INTERNATIONAL INC,Industrial,Electronics,112908206769.90,150.94,Darius Adamczyk,01-01-2014,37455692,1-973-455-2000,www.honeywell.com
+HP UN  EQUITY,HELMERICH & PAYNE,Energy,Oil&Gas,7119889504.80,65.39,John W Lindsay,3/5/2014,6230952,1-918-742-5531,www.hpinc.com
+HPE UN  EQUITY,HEWLETT PACKARD ENTERPRISE,Technology,Computers,29091524461.79,18.73,Antonio Fabio Neri,2/1/2018,17084122,1-650-687-5817,www.hpe.com
+HPQ UN  EQUITY,HP INC,Technology,Computers,38120210691.60,23.28,Dion J Weisler,11/1/2015,14730025,1-650-857-1501,www.hp.com
+HRB UN  EQUITY,H&R BLOCK INC,"Consumer, Non-cyclical",Commercial Services,5449717935.20,26.06,"Jeffrey J Jones II ""Jeff""",10/9/2017,8037677,1-816-854-3000,www.hrblock.com
+HRL UN  EQUITY,HORMEL FOODS CORP,"Consumer, Non-cyclical",Food,17818824113.85,33.65,James P Snee,10/31/2016,6320162,1-507-437-5611,www.hormelfoods.com
+HRS UN  EQUITY,HARRIS CORP,Industrial,Aerospace/Defense,18793740516.87,158.29,"William M Brown ""Bill""",11/1/2011,12476150,1-321-727-9100,www.harris.com
+HSIC UW  EQUITY,HENRY SCHEIN INC,"Consumer, Non-cyclical",Healthcare-Products,10085413404.00,65.62,Stanley M Bergman,1/1/1989,12594982,1-631-843-5500,www.henryschein.com
+HST UN  EQUITY,HOST HOTELS & RESORTS INC,Financial,REITS,13867352048.61,18.91,"James F Risoleo ""Jim""",1/1/2017,9399474,1-240-744-1000,www.hosthotels.com
+HSY UN  EQUITY,HERSHEY CO/THE,"Consumer, Non-cyclical",Food,21109417694.46,100.34,Michele G Buck,3/1/2017,12679576,1-717-534-4200,www.hersheys.com
+HUM UN  EQUITY,HUMANA INC,"Consumer, Non-cyclical",Healthcare-Services,37833130234.06,273.98,Bruce D Broussard,1/1/2013,19768525,1-502-580-1000,www.humana.com
+IBM UN  EQUITY,INTL BUSINESS MACHINES CORP,Technology,Computers,143591651316.72,155.86,"Virginia M Rometty ""Ginni""",1/1/2012,18595350,1-914-499-1900,www.ibm.com
+ICE UN  EQUITY,INTERCONTINENTAL EXCHANGE IN,Financial,Diversified Finan Serv,43351811156.15,74.43,"Jeffrey Craig Sprecher ""Jeff""",5/11/2000,10730399,1-770-857-4700,www.theice.com
+IDXX UW  EQUITY,IDEXX LABORATORIES INC,"Consumer, Non-cyclical",Healthcare-Products,17448953182.32,200.28,Jonathan W Ayers,1/24/2002,5863681,1-207-556-0300,www.idexx.com
+IFF UN  EQUITY,INTL FLAVORS & FRAGRANCES,Basic Materials,Chemicals,10736526597.14,136.12,Andreas Fibig,9/1/2014,6210233,1-212-765-5500,www.iff.com
+ILMN UW  EQUITY,ILLUMINA INC,"Consumer, Non-cyclical",Biotechnology,37004310000.00,251.85,Francis A Desouza,7/5/2016,11400734,1-858-202-4500,www.illumina.com
+INCY UW  EQUITY,INCYTE CORP,"Consumer, Non-cyclical",Biotechnology,18377776583.03,86.77,Herve Hoppenot,1/13/2014,16087031,1-302-498-6700,www.incyte.com
+INFO UW  EQUITY,IHS MARKIT LTD,"Consumer, Non-cyclical",Commercial Services,20883105216.93,49.17,Jerre L Stead,01-01-2014,8634144,44-20-7260-2000,www.ihsmarkit.com
+INTC UW  EQUITY,INTEL CORP,Technology,Semiconductors,240308640000.00,51.46,Brian M Krzanich,5/16/2013,19079000,1-408-765-8080,www.intel.com
+INTU UW  EQUITY,INTUIT INC,Technology,Software,45559597174.96,177.92,Brad D Smith,1/1/2008,16389053,1-650-944-6000,www.intuit.com
+IP UN  EQUITY,INTERNATIONAL PAPER CO,Basic Materials,Forest Products&Paper,22051024408.80,53.43,Mark S Sutton,11/1/2014,13300308,1-901-419-9000,www.internationalpaper.com
+IPG UN  EQUITY,INTERPUBLIC GROUP OF COS INC,Communications,Advertising,8823578054.40,22.94,Michael I Roth,1/19/2005,17978177,1-212-704-1200,www.interpublic.com
+IPGP UW  EQUITY,IPG PHOTONICS CORP,Technology,Semiconductors,13532949642.00,250.25,Valentin P Gapontsev,1/1/1990,1481397,1-508-373-1100,www.ipgphotonics.com
+IQV UN  EQUITY,IQVIA HOLDINGS INC,"Consumer, Non-cyclical",Healthcare-Services,21776721656.00,104.56,Ari Bousbib,10/3/2016,38029517,1-203-448-4600,www.iqvia.com
+IR UN  EQUITY,INGERSOLL-RAND PLC,Industrial,Miscellaneous Manufactur,22342602223.59,89.44,"Michael W Lamach ""Mike""",2/4/2010,16372314,1-704-655-4000,company.ingersollrand.com
+IRM UN  EQUITY,IRON MOUNTAIN INC,Financial,REITS,8964488869.58,31.45,"William L Meaney ""Bill""",1/7/2013,8450044,1-617-535-4766,www.ironmountain.com
+ISRG UW  EQUITY,INTUITIVE SURGICAL INC,"Consumer, Non-cyclical",Healthcare-Products,48733157394.03,430.85,Gary S Guthart,1/1/2010,5060220,1-408-523-2100,www.intuitivesurgical.com
+IT UN  EQUITY,GARTNER INC,"Consumer, Non-cyclical",Commercial Services,11353318786.83,124.93,Eugene A Hall,8/1/2004,10258926,1-203-316-1111,www.gartner.com
+ITW UN  EQUITY,ILLINOIS TOOL WORKS,Industrial,Miscellaneous Manufactur,57369434420.43,167.97,Ernest Scott Santi,10/15/2012,14839529,1-847-724-7500,www.itw.com
+IVZ UN  EQUITY,INVESCO LTD,Financial,Diversified Finan Serv,13303549333.05,32.645,"Martin L Flanagan ""Marty""",8/1/2005,21887848,1-404-892-0896,www.invesco.com
+JBHT UW  EQUITY,HUNT (JB) TRANSPRT SVCS INC,Industrial,Transportation,13270415627.72,120.91,John N Roberts III,1/1/2011,859252,1-479-820-0000,www.jbhunt.com
+JCI UN  EQUITY,JOHNSON CONTROLS INTERNATION,Industrial,Building Materials,33108267335.00,35.79,George R Oliver,11/17/2014,90874883,1-414-524-1200,www.johnsoncontrols.com
+JEC UN  EQUITY,JACOBS ENGINEERING GROUP INC,Industrial,Engineering&Construction,8545616676.48,60.32,Steven J Demetriou,7/28/2016,11145911,1-626-578-3500,www.jacobs.com
+JNJ UN  EQUITY,JOHNSON & JOHNSON,"Consumer, Non-cyclical",Pharmaceuticals,349413816105.75,130.23,Alex Gorsky,4/26/2012,29802564,1-732-524-0400,www.jnj.com
+JNPR UN  EQUITY,JUNIPER NETWORKS INC,Communications,Telecommunications,8769230279.27,25.49,Rami Rahim,11/18/2014,7544013,1-408-745-2000,www.juniper.net
+JPM UN  EQUITY,JPMORGAN CHASE & CO,Financial,Banks,394400669785.72,114.92,"James Dimon ""Jamie""",12/31/2005,27236892,1-212-270-6000,www.jpmorganchase.com
+JWN UN  EQUITY,NORDSTROM INC,"Consumer, Cyclical",Retail,8241869900.32,49.12,Blake W Nordstrom,01-01-2014,18414846,1-206-628-2111,shop.nordstrom.com
+K UN  EQUITY,KELLOGG CO,"Consumer, Non-cyclical",Food,22895780386.86,66.06,"Steven A Cahillane ""Steve""",10/2/2017,17715520,1-269-961-2000,www.kelloggcompany.com
+KEY UN  EQUITY,KEYCORP,Financial,Banks,22226704131.72,20.945,Beth Elaine Mooney,5/1/2011,8167203,1-800-539-2968,www.key.com
+KHC UW  EQUITY,KRAFT HEINZ CO/THE,"Consumer, Non-cyclical",Food,76687796825.64,62.98,Bernardo Vieira Hees,01-01-2014,4194179,1-412-456-5700,www.kraftheinzcompany.com
+KIM UN  EQUITY,KIMCO REALTY CORP,Financial,REITS,5982597265.92,14.095,Conor C Flynn,1/1/2016,5563791,1-516-869-9000,www.kimcorealty.com
+KLAC UW  EQUITY,KLA-TENCOR CORP,Technology,Semiconductors,18383553469.02,118.07,"Richard P Wallace ""Rick""",1/1/2006,14579250,1-408-875-3000,www.kla-tencor.com
+KMB UN  EQUITY,KIMBERLY-CLARK CORP,"Consumer, Non-cyclical",Household Products/Wares,38570180320.42,110.24,"Thomas J Falk ""Tom""",1/1/2002,16209534,1-972-281-1200,www.kimberly-clark.com
+KMI UN  EQUITY,KINDER MORGAN INC,Energy,Pipelines,34524943604.60,15.65,"Steven J Kean ""Steve""",6/1/2015,287711,1-713-369-9000,www.kindermorgan.com
+KMX UN  EQUITY,CARMAX INC,"Consumer, Cyclical",Retail,11187252083.76,61.84,"William D Nash ""Bill""",9/1/2016,34951142,1-804-747-0422,www.carmax.com
+KO UN  EQUITY,COCA-COLA CO/THE,"Consumer, Non-cyclical",Beverages,183714638115.36,43.075,James R Quincey,5/1/2017,25374669,1-404-676-2121,www.coca-colacompany.com
+KORS UN  EQUITY,MICHAEL KORS HOLDINGS LTD,"Consumer, Cyclical",Apparel,9516103663.30,62.51,John D Idol,12/1/2003,8590295,44-207-632-8600,www.michaelkors.com
+KR UN  EQUITY,KROGER CO,"Consumer, Non-cyclical",Food,20619459170.63,23.4,W Rodney Mcmullen,1/1/2014,13217392,1-513-762-4000,www.kroger.com
+KSS UN  EQUITY,KOHLS CORP,"Consumer, Cyclical",Retail,10765746750.96,64.1,Kevin Mansell,8/21/2008,8397658,1-262-703-7000,www.kohls.com
+KSU UN  EQUITY,KANSAS CITY SOUTHERN,Industrial,Transportation,10974178289.96,106.49,Patrick J Ottensmeyer,7/1/2016,12224865,1-816-983-1303,www.kcsouthern.com
+L UN  EQUITY,LOEWS CORP,Financial,Insurance,16970672236.31,51.61,"James S Tisch ""Jim""",1/1/1998,11027401,1-212-521-2000,www.loews.com
+LB UN  EQUITY,L BRANDS INC,"Consumer, Cyclical",Retail,11194636919.82,39.68,Leslie Herbert Wexner,5/22/2002,14773844,1-614-415-7000,www.lb.com
+LEG UN  EQUITY,LEGGETT & PLATT INC,"Consumer, Cyclical",Home Furnishings,5966970018.36,45.26,Karl G Glassman,1/1/2016,8055052,1-417-358-8131,www.leggett.com
+LEN UN  EQUITY,LENNAR CORP-A,"Consumer, Cyclical",Home Builders,18709706483.78,58.84,Stuart A Miller,4/1/1997,19127533,1-305-559-4000,www.lennar.com
+LH UN  EQUITY,LABORATORY CRP OF AMER HLDGS,"Consumer, Non-cyclical",Healthcare-Services,17401463000.00,170.77,David P King,1/1/2007,10853497,1-336-229-1127,www.labcorp.com
+LKQ UW  EQUITY,LKQ CORP,"Consumer, Cyclical",Distribution/Wholesale,12168087615.00,39.32,"Dominick P Zarcone ""Nick""",5/31/2017,4649093,1-312-621-1950,www.lkqcorp.com
+LLL UN  EQUITY,L3 TECHNOLOGIES INC,Industrial,Aerospace/Defense,16220518894.08,207.36,"Christopher Eugene Kubasik ""Chris""",1/1/2018,13505303,1-212-697-1111,www.l3t.com
+LLY UN  EQUITY,ELI LILLY & CO,"Consumer, Non-cyclical",Pharmaceuticals,85350825822.59,78.1,"David A Ricks ""Dave""",1/1/2017,15845991,1-317-276-2000,www.lilly.com
+LMT UN  EQUITY,LOCKHEED MARTIN CORP,Industrial,Aerospace/Defense,96168404275.72,336.46,Marillyn A Hewson,1/1/2013,22866843,1-301-897-6000,www.lockheedmartin.com
+LNC UN  EQUITY,LINCOLN NATIONAL CORP,Financial,Insurance,16753449384.48,76.76,Dennis R Glass,7/6/2007,13265412,1-484-583-1400,www.lfg.com
+LNT UN  EQUITY,ALLIANT ENERGY CORP,Utilities,Electric,9172121940.72,39.65,"Patricia Leonard Kampling ""Pat""",4/1/2012,6139954,1-608-458-3311,www.alliantenergy.com
+LOW UN  EQUITY,LOWE'S COS INC,"Consumer, Cyclical",Retail,70919638225.59,85.48,Robert A Niblock,1/1/2005,12670019,1-704-758-1000,www.lowes.com
+LRCX UW  EQUITY,LAM RESEARCH CORP,Technology,Semiconductors,35670298747.60,219.26,Martin B Anstice,1/1/2012,11158881,1-510-572-0200,www.lamrc.com
+LUK UN  EQUITY,LEUCADIA NATIONAL CORP,Financial,Investment Companies,8318502132.80,23.35,"Richard B Handler ""Rich""",3/1/2013,17583374,1-212-460-1900,www.leucadia.com
+LUV UN  EQUITY,SOUTHWEST AIRLINES CO,"Consumer, Cyclical",Airlines,35723901119.48,60.74,Gary C Kelly,7/15/2004,6181660,1-214-792-4000,www.southwest.com
+LYB UN  EQUITY,LYONDELLBASELL INDU-CL A,Basic Materials,Chemicals,42631811240.40,108.05,"Bhavesh V Patel ""Bob""",1/12/2015,12643992,1-713-309-7200,www.lyondellbasell.com
+M UN  EQUITY,MACY'S INC,"Consumer, Cyclical",Retail,8798052000.00,28.86,Tony Spring,01-01-2014,13483606,1-513-579-7000,www.federated-fds.com
+MA UN  EQUITY,MASTERCARD INC - A,Financial,Diversified Finan Serv,192172138602.08,182.81,"Ajaypal S Banga ""Ajay""",7/1/2010,16892056,1-914-249-2000,www.mastercard.us
+MAA UN  EQUITY,MID-AMERICA APARTMENT COMM,Financial,REITS,10208132795.88,89.89,H Eric Bolton Jr,10/1/2001,4276313,1-901-682-6600,www.maac.com
+MAC UN  EQUITY,MACERICH CO/THE,Financial,REITS,8051107064.88,57.17,Arthur M Coppola,1/1/1993,13537911,1-310-394-6000,www.macerich.com
+MAR UW  EQUITY,MARRIOTT INTERNATIONAL -CL A,"Consumer, Cyclical",Lodging,50130137339.94,140.45,Arne M Sorenson,3/31/2012,12298378,1-301-380-3000,www.marriott.com
+MAS UN  EQUITY,MASCO CORP,Industrial,Building Materials,12892926310.00,41.14,Keith J Allman,2/14/2014,9765728,1-313-274-7400,www.masco.com
+MAT UW  EQUITY,MATTEL INC,"Consumer, Cyclical",Toys/Games/Hobbies,4386738604.79,12.76,"Margaret Mary H Georgiadis ""Margo""",2/8/2017,9225193,1-310-252-2000,corporate.mattel.com
+MCD UN  EQUITY,MCDONALD'S CORP,"Consumer, Cyclical",Retail,127238835482.00,160.2,"Stephen J Easterbrook ""Steve""",3/1/2015,15355746,1-630-623-3000,www.tds-restaurants.com
+MCHP UW  EQUITY,MICROCHIP TECHNOLOGY INC,Technology,Semiconductors,22953902824.95,97.96,Steve Sanghi,10/1/1991,7305351,1-480-792-7200,www.microchip.com
+MCK UN  EQUITY,MCKESSON CORP,"Consumer, Non-cyclical",Pharmaceuticals,29252727239.41,141.82,John H Hammergren,8/15/2001,20096599,1-415-983-8300,www.mckesson.com
+MCO UN  EQUITY,MOODY'S CORP,"Consumer, Non-cyclical",Commercial Services,31938057032.24,167.12,Raymond W Mcdaniel Jr,4/1/2005,11173956,1-212-553-0300,www.moodys.com
+MDLZ UW  EQUITY,MONDELEZ INTERNATIONAL INC-A,"Consumer, Non-cyclical",Food,62988360535.10,42.35,Dirk Van De Put,01-01-2014,16742076,1-847-943-4000,www.mondelezinternational.com
+MDT UN  EQUITY,MEDTRONIC PLC,"Consumer, Non-cyclical",Healthcare-Products,107928386071.64,79.62,Omar S Ishrak,6/13/2011,15687287,1-763-514-4000,www.medtronic.com
+MET UN  EQUITY,METLIFE INC,Financial,Insurance,49012466666.88,47.29,Steven Kandarian,01-01-2014,15281939,1-212-578-9500,www.metlife.com
+MGM UN  EQUITY,MGM RESORTS INTERNATIONAL,"Consumer, Cyclical",Lodging,20683738397.52,36.49,James Joseph Murren,12/1/2008,16609696,1-702-693-7120,www.mgmresorts.com
+MHK UN  EQUITY,MOHAWK INDUSTRIES INC,"Consumer, Cyclical",Textiles,18330992522.10,246.3,Jeffrey Scott Lorberbaum,1/1/2001,7071423,1-706-629-7721,www.mohawkind.com
+MKC UN  EQUITY,MCCORMICK & CO-NON VTG SHRS,"Consumer, Non-cyclical",Food,14108938985.46,107.62,Lawrence E Kurzius,2/1/2016,9048299,1-410-771-7301,www.mccormick.com
+MLM UN  EQUITY,MARTIN MARIETTA MATERIALS,Industrial,Building Materials,12776014696.86,203.43,"C Howard Nye ""Ward""",1/1/2010,8039331,1-919-781-4550,www.martinmarietta.com
+MMC UN  EQUITY,MARSH & MCLENNAN COS,Financial,Insurance,43081824823.20,84.87,Dan Glaser,1/1/2013,15749939,1-212-345-5000,www.mmc.com
+MMM UN  EQUITY,3M CO,Industrial,Miscellaneous Manufactur,138316785000.00,232.35,Inge G Thulin,2/24/2012,16670674,1-651-733-1110,www.3m.com
+MNST UW  EQUITY,MONSTER BEVERAGE CORP,"Consumer, Non-cyclical",Beverages,33140224785.48,58.52,Rodney Cyril Sacks,10/27/1992,12028955,1-800-426-7367,www.monsterbevcorp.com
+MO UN  EQUITY,ALTRIA GROUP INC,"Consumer, Non-cyclical",Agriculture,117029671711.96,61.59,"Martin J Barrington ""Marty""",5/17/2012,37781440,1-804-274-2200,www.altria.com
+MON UN  EQUITY,MONSANTO CO,Basic Materials,Chemicals,52085022528.00,118.16,Hugh Grant,5/1/2003,19459959,1-314-694-1000,www.monsanto.com
+MOS UN  EQUITY,MOSAIC CO/THE,Basic Materials,Chemicals,9765484753.05,25.36,"James C O'Rourke ""Joc""",8/5/2015,7316221,1-763-577-2700,www.mosaicco.com
+MPC UN  EQUITY,MARATHON PETROLEUM CORP,Energy,Oil&Gas,33857272537.92,71.37,Gary R Heminger,6/30/2011,19670807,1-419-422-2121,www.marathonpetroleum.com
+MRK UN  EQUITY,MERCK & CO. INC.,"Consumer, Non-cyclical",Pharmaceuticals,146912724263.48,54.49,"Kenneth C Frazier ""Ken""",1/1/2011,21781170,1-908-740-4000,www.merck.com
+MRO UN  EQUITY,MARATHON OIL CORP,Energy,Oil&Gas,12924786721.86,15.23,Lee M Tillman,8/1/2013,8620091,1-713-629-6600,www.marathon.com
+MS UN  EQUITY,MORGAN STANLEY,Financial,Banks,103371618123.72,57.62,James Patrick Gorman,1/1/2010,21205835,1-212-761-4000,www.morganstanley.com
+MSFT UW  EQUITY,MICROSOFT CORP,Technology,Software,719083654448.28,93.4,Satya Nadella,2/4/2014,20014152,1-425-882-8080,www.microsoft.com
+MSI UN  EQUITY,MOTOROLA SOLUTIONS INC,Communications,Telecommunications,17642204009.25,109.36,"Gregory Q Brown ""Greg""",1/1/2008,12224711,1-847-576-5000,www.motorolasolutions.com
+MTB UN  EQUITY,M & T BANK CORP,Financial,Banks,28129153331.76,189.34,Rene Francis Jones,12/20/2017,7192219,1-716-635-4000,www.mandtbank.com
+MTD UN  EQUITY,METTLER-TOLEDO INTERNATIONAL,Industrial,Electronics,15661696690.24,615.38,Olivier A Filliol,1/1/2008,7259085,1-614-438-4511,www.mt.com
+MU UW  EQUITY,MICRON TECHNOLOGY INC,Technology,Semiconductors,70627718489.76,61.12,Sanjay Mehrotra,5/8/2017,31074678,1-208-368-4000,www.micron.com
+MYL UW  EQUITY,MYLAN NV,"Consumer, Non-cyclical",Pharmaceuticals,20694224701.80,40.2,Heather Bresch,1/1/2012,13776693,1-724-514-1800,www.mylan.com
+NAVI UW  EQUITY,NAVIENT CORP,Financial,Diversified Finan Serv,3529405658.80,13.4,"John F Remondi ""Jack""",01-01-2014,6559910,1-302-283-8000,www.navient.com
+NBL UN  EQUITY,NOBLE ENERGY INC,Energy,Oil&Gas,14352318486.72,29.18,David L Stover,10/21/2014,11262048,1-281-872-3100,www.nobleenergyinc.com
+NCLH UN  EQUITY,NORWEGIAN CRUISE LINE HOLDIN,"Consumer, Cyclical",Leisure Time,12448848003.39,55.59,Frank J Del Rio,1/9/2015,2917824,1-305-468-2339,www.nclhltd.com
+NDAQ UW  EQUITY,NASDAQ INC,Financial,Diversified Finan Serv,14037647639.12,84.28,Adena T Friedman,1/1/2017,14460580,1-212-401-8700,www.nasdaq.com
+NEE UN  EQUITY,NEXTERA ENERGY INC,Utilities,Electric,75284659105.31,159.9,"James L Robo ""Jim""",7/1/2012,16758771,1-561-694-4000,www.nexteraenergy.com
+NEM UN  EQUITY,NEWMONT MINING CORP,Basic Materials,Mining,19907869056.30,37.33,Gary J Goldberg,3/1/2013,13827445,1-303-863-7414,www.newmont.com
+NFLX UW  EQUITY,NETFLIX INC,Communications,Internet,137631093890.76,317.08,Reed Hastings,9/1/1998,23194567,1-408-540-3700,https://ir.netflix.com/
+NFX UN  EQUITY,NEWFIELD EXPLORATION CO,Energy,Oil&Gas,4701465507.86,23.54,Lee K Boothby,5/7/2009,9888148,1-281-210-5100,www.newfield.com
+NI UN  EQUITY,NISOURCE INC,Utilities,Gas,7811060645.05,23.14,"Joseph Hamrock ""Joe""",5/1/2012,4334158,1-877-647-5990,www.nisource.com
+NKE UN  EQUITY,NIKE INC -CL B,"Consumer, Cyclical",Apparel,108647095471.74,66.78,Mark G Parker,1/23/2006,13851499,1-503-671-6453,www.nike.com
+NKTR UW  EQUITY,NEKTAR THERAPEUTICS,"Consumer, Non-cyclical",Pharmaceuticals,17331398591.70,107.86,Howard W Robin,1/15/2007,4764143,1-415-482-5300,www.nektar.com
+NLSN UN  EQUITY,NIELSEN HOLDINGS PLC,"Consumer, Non-cyclical",Commercial Services,11623031935.98,32.6,"Dwight M Barns ""Mitch""",1/1/2014,10122489,1-800-864-1224,www.nielsen.com
+NOC UN  EQUITY,NORTHROP GRUMMAN CORP,Industrial,Aerospace/Defense,60575516076.60,348.08,"Wesley G Bush ""Wes""",1/1/2010,19841841,1-703-280-2900,www.northropgrumman.com
+NOV UN  EQUITY,NATIONAL OILWELL VARCO INC,Energy,Oil&Gas Services,14008295013.35,36.88,Clay C Williams,2/27/2014,10581470,1-713-346-7500,www.nov.com
+NRG UN  EQUITY,NRG ENERGY INC,Utilities,Electric,9631637273.84,30.33,Mauricio Gutierrez,01-01-2014,9049662,1-609-524-4500,www.nrg.com
+NSC UN  EQUITY,NORFOLK SOUTHERN CORP,Industrial,Transportation,39569335727.86,139.33,"James A Squires ""Jim""",6/1/2015,8425074,1-757-629-2680,www.nscorp.com
+NTAP UW  EQUITY,NETAPP INC,Technology,Computers,16927356691.44,63.17,George Kurian,01-01-2014,9005241,1-408-822-6000,www.netapp.com
+NTRS UW  EQUITY,NORTHERN TRUST CORP,Financial,Banks,24094393980.58,106.73,Michael G O'Grady,1/1/2018,11850683,1-312-630-6000,www.northerntrust.com
+NUE UN  EQUITY,NUCOR CORP,Basic Materials,Iron/Steel,20767628575.32,65.36,John J Ferriola,1/1/2013,10627499,1-704-366-7000,www.nucor.com
+NVDA UW  EQUITY,NVIDIA CORP,Technology,Semiconductors,149386600000.00,247.07,Jensen Huang,4/2/1993,12194238,1-408-486-2000,www.nvidia.com
+NWL UN  EQUITY,NEWELL BRANDS INC,"Consumer, Cyclical",Housewares,12998508000.00,26.81,Michael B Polk,7/18/2011,21684542,1-201-610-6600,www.newellbrands.com
+NWS UW  EQUITY,NEWS CORP - CLASS B,Communications,Media,9586158616.64,16.7,Robert James Thomson,1/1/2013,13587927,1-212-416-3400,www.newscorp.com
+NWSA UW  EQUITY,NEWS CORP - CLASS A,Communications,Media,9576177104.64,16.32,Robert James Thomson,1/1/2013,13587927,1-212-416-3400,www.newscorp.com
+O UN  EQUITY,REALTY INCOME CORP,Financial,REITS,14303233761.28,50.32,John P Case,9/3/2013,8340041,1-858-284-5000,www.realtyincome.com
+OKE UN  EQUITY,ONEOK INC,Energy,Pipelines,23697701240.17,57.74,Terry K Spencer,1/21/2014,4690792,1-918-588-7000,www.oneok.com
+OMC UN  EQUITY,OMNICOM GROUP,Communications,Advertising,16678285599.78,72.46,John D Wren,1/1/1997,27306177,1-212-415-3600,www.omnicomgroup.com
+ORCL UN  EQUITY,ORACLE CORP,Technology,Software,195161536290.00,47.105,Mark V Hurd,9/18/2014,81562244,1-650-506-7000,www.oracle.com
+ORLY UW  EQUITY,O'REILLY AUTOMOTIVE INC,"Consumer, Cyclical",Retail,20708547750.00,247.63,"Gregory L Henslee ""Greg""",2/24/2005,4585494,1-417-862-6708,www.oreillyauto.com
+OXY UN  EQUITY,OCCIDENTAL PETROLEUM CORP,Energy,Oil&Gas,48954213442.12,64.01,Vicki A Hollub,4/29/2016,16282409,1-713-215-7000,www.oxy.com
+PAYX UW  EQUITY,PAYCHEX INC,Technology,Software,23512280342.52,65.44,"Martin Mucci ""Marty""",9/30/2010,8580500,1-585-385-6666,www.paychex.com
+PBCT UW  EQUITY,PEOPLE'S UNITED FINANCIAL,Financial,Savings&Loans,6802853896.96,19.58,"John P Barnes ""Jack""",4/25/2010,5124582,1-203-338-7171,www.peoples.com
+PCAR UW  EQUITY,PACCAR INC,"Consumer, Cyclical",Auto Manufacturers,23434819399.68,66.56,"Ronald E Armstrong ""Ron""",4/27/2014,7666020,1-425-468-7400,www.paccar.com
+PCG UN  EQUITY,P G & E CORP,Utilities,Electric,22329057791.20,43.41,Geisha J Williams,3/1/2017,11730646,1-415-973-1000,www.pgecorp.com
+PEG UN  EQUITY,PUBLIC SERVICE ENTERPRISE GP,Utilities,Electric,24708232407.65,48.95,Ralph Izzo,4/1/2007,10621115,1-973-430-7000,www.pseg.com
+PEP UW  EQUITY,PEPSICO INC,"Consumer, Non-cyclical",Beverages,156295119230.25,110.08,Indra K Nooyi,10/1/2006,31082648,1-914-253-2000,www.pepsico.com
+PFE UN  EQUITY,PFIZER INC,"Consumer, Non-cyclical",Pharmaceuticals,215731818576.24,36.26,Ian C Read,12/5/2010,27913775,1-212-733-2323,www.pfizer.com
+PFG UW  EQUITY,PRINCIPAL FINANCIAL GROUP,Financial,Insurance,17938445809.79,61.91,"Daniel Joseph Houston ""Dan""",8/18/2015,8970708,1-515-247-5111,www.principal.com
+PG UN  EQUITY,PROCTER & GAMBLE CO/THE,"Consumer, Non-cyclical",Cosmetics/Personal Care,197016150000.00,78.16,David S Taylor,11/1/2015,18096177,1-513-983-1100,us.pg.com
+PGR UN  EQUITY,PROGRESSIVE CORP,Financial,Insurance,36242752000.00,62.23,"Susan Patricia Griffith ""Tricia""",7/1/2016,16657553,1-440-461-5000,www.progressive.com
+PH UN  EQUITY,PARKER HANNIFIN CORP,Industrial,Miscellaneous Manufactur,24208182580.80,181.8,Thomas L Williams,2/1/2015,15328101,1-216-896-3000,www.parker.com
+PHM UN  EQUITY,PULTEGROUP INC,"Consumer, Cyclical",Home Builders,8308918369.18,29.02,Ryan R Marshall,9/8/2016,20495606,1-404-978-6400,www.pulte.com
+PKG UN  EQUITY,PACKAGING CORP OF AMERICA,Industrial,Packaging&Containers,10953070835.98,116.08,Mark W Kowlzan,7/1/2010,9407198,1-800-456-4725,www.packagingcorp.com
+PKI UN  EQUITY,PERKINELMER INC,Industrial,Electronics,8579557501.08,77.63,"Robert F Friel ""Rob""",2/1/2008,11365597,1-781-663-6900,www.perkinelmer.com
+PLD UN  EQUITY,PROLOGIS INC,Financial,REITS,33515839172.39,63.31,Hamid R Moghadam,11/1/1997,15539777,1-415-394-9000,www.prologis.com
+PM UN  EQUITY,PHILIP MORRIS INTERNATIONAL,"Consumer, Non-cyclical",Agriculture,155773426470.42,100.24,Andre Calantzopoulos,1/1/2002,18124325,1-917-663-2000,www.pmi.com
+PNC UN  EQUITY,PNC FINANCIAL SERVICES GROUP,Financial,Banks,75435597824.64,159.9,William S Demchak,4/23/2013,13901853,1-888-762-2265,www.pnc.com
+PNR UN  EQUITY,PENTAIR PLC,Industrial,Miscellaneous Manufactur,13089912994.17,71.93,Randall J Hogan III,1/1/2001,15583493,44-207-347-8925,www.pentair.com
+PNW UN  EQUITY,PINNACLE WEST CAPITAL,Utilities,Electric,8704731571.54,77.88,"Donald E Brandt ""Don""",4/30/2009,11359227,1-602-250-1000,www.pinnaclewest.com
+PPG UN  EQUITY,PPG INDUSTRIES INC,Basic Materials,Chemicals,28654667565.12,114.93,Michael H Mcgarry,9/1/2015,14249861,1-412-434-3131,www.ppg.com
+PPL UN  EQUITY,PPL CORP,Utilities,Electric,18950567340.00,27.34,"William H Spence ""Bill""",11/17/2011,15507259,1-610-774-5151,www.pplweb.com
+PRGO UN  EQUITY,PERRIGO CO PLC,"Consumer, Non-cyclical",Pharmaceuticals,11391140694.44,80.89,Uwe Roehrhoff,1/15/2018,14910314,353-1-604-0031,www.perrigo.com
+PRU UN  EQUITY,PRUDENTIAL FINANCIAL INC,Financial,Insurance,45938920000.00,108.81,John R Strangfeld,1/1/2008,24444255,1-973-802-6000,www.prudential.com
+PSA UN  EQUITY,PUBLIC STORAGE,Financial,REITS,34306846209.90,197.07,Ronald L Havner Jr,11/7/2002,10506800,1-818-244-8080,www.publicstorage.com
+PSX UN  EQUITY,PHILLIPS 66,Energy,Oil&Gas,44468765445.76,95.36,Greg C Garland,4/1/2012,25055294,1-281-293-6600,www.phillips66.com
+PVH UN  EQUITY,PVH CORP,"Consumer, Cyclical",Retail,11137059683.18,144.77,"Emanuel Chirico ""Manny""",2/27/2006,16094530,1-212-381-3500,www.pvh.com
+PWR UN  EQUITY,QUANTA SERVICES INC,"Consumer, Non-cyclical",Commercial Services,5401164016.80,35.02,"Earl C Austin Jr ""Duke""",3/14/2016,8969830,1-713-629-7600,www.quantaservices.com
+PX UN  EQUITY,PRAXAIR INC,Basic Materials,Chemicals,43242771357.60,150.6,"Stephen F Angel ""Steve""",1/1/2007,13037062,1-203-837-2000,www.praxair.com
+PXD UN  EQUITY,PIONEER NATURAL RESOURCES CO,Energy,Oil&Gas,28843850730.25,169.41,"Timothy Lee Dove ""Tim""",12/31/2016,15003350,1-972-444-9001,www.pxd.com
+PYPL UW  EQUITY,PAYPAL HOLDINGS INC,"Consumer, Non-cyclical",Commercial Services,96960959119.95,80.85,"Daniel H Schulman ""Dan""",7/20/2015,18934341,1-408-967-1000,www.paypal.com
+QCOM UW  EQUITY,QUALCOMM INC,Technology,Semiconductors,86023911246.78,58.13,"Steven M Mollenkopf ""Steve""",3/4/2014,11591310,1-858-587-1121,www.qualcomm.com
+QRVO UW  EQUITY,QORVO INC,Technology,Semiconductors,9437687421.39,74.45,Robert A Bruggeworth,1/2/2015,6599185,1-336-664-1233,www.qorvo.com
+RCL UN  EQUITY,ROYAL CARIBBEAN CRUISES LTD,"Consumer, Cyclical",Leisure Time,26652363932.21,124.76,Richard D Fain,1/1/1988,10405684,1-305-539-6000,www.royalcaribbean.com
+RE UN  EQUITY,EVEREST RE GROUP LTD,Financial,Insurance,10686542092.56,261.67,Dominic J Addesso,1/1/2014,8827677,1-441-295-0006,www.everestregroup.com
+REG UN  EQUITY,REGENCY CENTERS CORP,Financial,REITS,9540849932.64,56.15,"Martin E Stein Jr ""Hap""",2/12/2001,5591771,1-904-598-7000,www.regencycenters.com
+REGN UW  EQUITY,REGENERON PHARMACEUTICALS,"Consumer, Non-cyclical",Biotechnology,35934113620.68,333.74,Leonard S Schleifer,1/8/1988,28337520,1-914-847-7000,www.regeneron.com
+RF UN  EQUITY,REGIONS FINANCIAL CORP,Financial,Banks,21910364772.00,19.51,O B Grayson Hall Jr,4/1/2010,12721359,1-205-326-5807,www.regions.com
+RHI UN  EQUITY,ROBERT HALF INTL INC,"Consumer, Non-cyclical",Commercial Services,7417171800.12,59.74,Harold M Messmer Jr,6/17/1987,8840040,1-650-234-6000,www.roberthalf.com
+RHT UN  EQUITY,RED HAT INC,Technology,Software,27375485038.00,154.66,"James M Whitehurst ""Jim""",1/1/2008,11132589,1-919-754-3700,www.redhat.com
+RJF UN  EQUITY,RAYMOND JAMES FINANCIAL INC,Financial,Diversified Finan Serv,14054756132.24,96.44,Paul C Reilly,5/1/2010,9768247,1-727-567-1000,www.raymondjames.com
+RL UN  EQUITY,RALPH LAUREN CORP,"Consumer, Cyclical",Apparel,8949999052.80,110.1,Patrice Louvet,7/17/2017,22505130,1-212-318-7000,www.ralphlauren.com
+RMD UN  EQUITY,RESMED INC,"Consumer, Non-cyclical",Healthcare-Products,14005429174.73,98.08,"Michael J Farrell ""Mick""",3/1/2013,8133396,1-858-836-5000,www.resmed.com
+ROK UN  EQUITY,ROCKWELL AUTOMATION INC,Industrial,Machinery-Diversified,23382064533.80,182.98,Blake D Moret,7/1/2016,6278528,1-414-382-2000,www.rockwellautomation.com
+ROP UN  EQUITY,ROPER TECHNOLOGIES INC,Industrial,Machinery-Diversified,29650008010.90,288.45,Brian D Jellison,11/6/2001,26316166,1-941-556-2601,www.ropertech.com
+ROST UW  EQUITY,ROSS STORES INC,"Consumer, Cyclical",Retail,29558992867.95,77.37,Barbara Rentler,6/1/2014,11117117,1-925-965-4400,www.ddsdiscounts.com
+RRC UN  EQUITY,RANGE RESOURCES CORP,Energy,Oil&Gas,3596361775.43,14.485,"Jeffrey L Ventura ""Jeff""",1/1/2012,9862925,1-817-870-2601,www.rangeresources.com
+RSG UN  EQUITY,REPUBLIC SERVICES INC,Industrial,Environmental Control,22651694479.33,68.39,"Donald W Slager ""Don""",1/1/2011,12917801,1-480-627-2700,www.republicservices.com
+RTN UN  EQUITY,RAYTHEON COMPANY,Industrial,Aerospace/Defense,61275789340.00,212.39,Thomas A Kennedy,4/1/2014,20460796,1-781-522-3000,www.raytheon.com
+SBAC UW  EQUITY,SBA COMMUNICATIONS CORP,Financial,REITS,19745753299.16,169.29,"Jeffrey A Stoops ""Jeff""",1/1/2002,7095655,1-561-995-7670,www.sbasite.com
+SBUX UW  EQUITY,STARBUCKS CORP,"Consumer, Cyclical",Retail,82839036000.00,58.92,Kevin R Johnson,4/3/2017,29461254,1-206-447-1575,www.starbucks.com
+SCG UN  EQUITY,SCANA CORP,Utilities,Electric,5517252190.28,38.68,Jimmy E Addison,1/1/2018,6108804,1-803-217-9000,www.scana.com
+SCHW UN  EQUITY,SCHWAB (CHARLES) CORP,Financial,Diversified Finan Serv,75469839618.95,56.02,"Walter William Bettinger II ""Walt""",10/1/2008,19547649,1-415-667-7000,www.schwab.com
+SEE UN  EQUITY,SEALED AIR CORP,Industrial,Packaging&Containers,7351109121.60,43.91,"Edward L Doheny II ""Ted""",1/1/2018,14809624,1-980-221-3235,www.sealedair.com
+SHW UN  EQUITY,SHERWIN-WILLIAMS CO/THE,Basic Materials,Chemicals,38524078395.69,409.39,John G Morikis,1/1/2016,13513194,1-216-566-2000,www.sherwin-williams.com
+SIVB UW  EQUITY,SVB FINANCIAL GROUP,Financial,Banks,13927984394.94,263.34,"Gregory W Becker ""Greg""",4/21/2011,6106711,1-408-654-7400,www.svb.com
+SJM UN  EQUITY,JM SMUCKER CO/THE,"Consumer, Non-cyclical",Food,14229996522.63,125.31,Mark T Smucker,5/1/2016,11479303,1-330-682-3000,www.smuckers.com
+SLB UN  EQUITY,SCHLUMBERGER LTD,Energy,Oil&Gas Services,91112822252.12,65.79,Paal Kibsgaard,8/1/2011,20759340,1-713-375-3400,www.slb.com
+SLG UN  EQUITY,SL GREEN REALTY CORP,Financial,REITS,8939967251.04,97.39,Marc Holliday,1/1/2004,17326371,1-212-594-2700,www.slgreen.com
+SNA UN  EQUITY,SNAP-ON INC,Industrial,Hand/Machine Tools,8579480463.92,151.28,Nicholas T Pinchuk,12/1/2007,10030633,1-262-656-5200,store.snapon.com
+SNPS UW  EQUITY,SYNOPSYS INC,Technology,Software,12912314397.48,86.82,Aart J De Geus,5/23/2012,13304304,1-650-584-5000,www.synopsys.com
+SO UN  EQUITY,SOUTHERN CO/THE,Utilities,Electric,44127140527.14,43.77,"Thomas A Fanning ""Tom""",12/1/2010,15829652,1-404-506-5000,www.southerncompany.com
+SPG UN  EQUITY,SIMON PROPERTY GROUP INC,Financial,REITS,49511251789.44,154.55,David E Simon,9/25/1998,13238074,1-317-636-1600,www.simon.com
+SPGI UN  EQUITY,S&P GLOBAL INC,"Consumer, Non-cyclical",Commercial Services,48585122367.84,194.9,Douglas L Peterson,11/1/2013,10719216,1-212-438-1000,www.spglobal.com
+SRCL UW  EQUITY,STERICYCLE INC,Industrial,Environmental Control,5333690658.95,62.34,"Charles A Alutto ""Charlie""",1/1/2013,3617397,1-847-367-5910,www.stericycle.com
+SRE UN  EQUITY,SEMPRA ENERGY,Utilities,Gas,29346188438.82,111.24,"Debra L Reed ""Debbie""",6/27/2011,18806408,1-619-696-2000,www.sempra.com
+STI UN  EQUITY,SUNTRUST BANKS INC,Financial,Banks,33235263490.72,70.97,"William H Rogers Jr ""Bill""",11/1/2011,9592062,1-800-786-8787,www.suntrust.com
+STT UN  EQUITY,STATE STREET CORP,Financial,Banks,39079353813.90,106.18,"Joseph L Hooley ""Jay""",3/1/2010,14691841,1-617-786-3000,www.statestreet.com
+STX UW  EQUITY,SEAGATE TECHNOLOGY,Technology,Computers,17132368170.15,60.15,"William David Mosley ""Dave""",10/1/2017,3136738,353-1-234-3136,www.seagate.com
+STZ UN  EQUITY,CONSTELLATION BRANDS INC-A,"Consumer, Non-cyclical",Beverages,44092979015.20,226.29,"Robert S Sands ""Rob""",7/26/2007,9563166,1-585-678-7100,www.cbrands.com
+SWK UN  EQUITY,STANLEY BLACK & DECKER INC,Industrial,Hand/Machine Tools,24395847758.90,158.49,"James Michael Loree ""Jim""",8/1/2016,16211415,1-860-225-5111,www.stanleyblackanddecker.com
+SWKS UW  EQUITY,SKYWORKS SOLUTIONS INC,Technology,Semiconductors,19854123091.20,108.75,Liam K Griffin,5/11/2016,8701858,1-781-376-3000,www.skyworksinc.com
+SYF UN  EQUITY,SYNCHRONY FINANCIAL,Financial,Diversified Finan Serv,26964893620.35,35.48,Margaret Keane,2/1/2014,10260358,1-203-585-2400,www.synchronyfinancial.com
+SYK UN  EQUITY,STRYKER CORP,"Consumer, Non-cyclical",Healthcare-Products,62269256792.60,166.21,Kevin A Lobo,10/1/2012,12797399,1-269-385-2600,www.stryker.com
+SYMC UW  EQUITY,SYMANTEC CORP,Communications,Internet,16433481853.12,26.44,"Gregory S Clark ""Greg""",8/1/2016,19033543,1-650-527-8000,www.symantec.com
+SYY UN  EQUITY,SYSCO CORP,"Consumer, Non-cyclical",Food,31497796381.45,60.34,"Thomas L Bene ""Tom""",1/1/2018,15100280,1-281-584-1390,www.sysco.com
+T UN  EQUITY,AT&T INC,Communications,Telecommunications,222937637227.80,36.29,Randall L Stephenson,6/1/2007,28720720,1-210-821-4105,www.att.com
+TAP UN  EQUITY,MOLSON COORS BREWING CO -B,"Consumer, Non-cyclical",Beverages,16637936078.28,76.9,Mark Roderick Hunter,12/31/2014,8929414,1-303-279-6565,www.molsoncoors.com
+TDG UN  EQUITY,TRANSDIGM GROUP INC,Industrial,Aerospace/Defense,16121351997.74,308.86,Walter Nicholas Howley,1/19/2006,61023102,1-216-706-2960,www.transdigm.com
+TEL UN  EQUITY,TE CONNECTIVITY LTD,Industrial,Electronics,36792379111.68,104.76,Terrence R Curtin,3/9/2017,18664919,41-52-633-6661,www.te.com
+TGT UN  EQUITY,TARGET CORP,"Consumer, Cyclical",Retail,38437707353.40,71.35,Brian C Cornell,8/12/2014,11281369,1-612-304-6073,www.target.com
+TIF UN  EQUITY,TIFFANY & CO,"Consumer, Cyclical",Retail,12205981997.44,98.12,Alessandro Bogliolo,10/2/2017,10073403,1-212-755-8000,www.tiffany.com
+TJX UN  EQUITY,TJX COMPANIES INC,"Consumer, Cyclical",Retail,51557946257.70,81.51,Ernie Herrman,1/31/2016,18536866,1-508-390-1000,www.tjx.com
+TMK UN  EQUITY,TORCHMARK CORP,Financial,Insurance,9795766196.16,86.04,Gary L Coleman,6/1/2012,20107639,1-972-569-4000,www.torchmarkcorp.com
+TMO UN  EQUITY,THERMO FISHER SCIENTIFIC INC,"Consumer, Non-cyclical",Healthcare-Products,85869290585.52,213.76,Marc N Casper,10/15/2009,17800661,1-781-622-1000,www.thermofisher.com
+TPR UN  EQUITY,TAPESTRY INC,"Consumer, Cyclical",Retail,15107315634.11,53.08,Victor Luis,1/1/2014,12859854,1-212-594-1850,www.tapestry.com
+TRIP UW  EQUITY,TRIPADVISOR INC,Communications,Internet,5879020577.40,42.32,"Stephen Kaufer ""Steve""",2/1/2000,1233110,1-718-800-5000,www.tripadvisor.in
+TROW UW  EQUITY,T ROWE PRICE GROUP INC,Financial,Diversified Finan Serv,27514767600.46,112.57,"William Joseph Stromberg ""Bill""",1/1/2016,11669969,1-410-345-2000,www3.troweprice.com
+TRV UN  EQUITY,TRAVELERS COS INC/THE,Financial,Insurance,38436913273.99,141.61,Alan David Schnitzer,12/1/2015,11558119,1-917-778-6000,www.travelers.com
+TSCO UW  EQUITY,TRACTOR SUPPLY COMPANY,"Consumer, Cyclical",Retail,7834820904.20,62.59,"Gregory A Sandfort ""Greg""",12/20/2012,6091473,1-615-440-4000,www.tractorsupply.com
+TSN UN  EQUITY,TYSON FOODS INC-CL A,"Consumer, Non-cyclical",Food,29504678790.76,73.89,"Thomas P Hayes ""Tom""",12/31/2016,13977107,1-479-290-4000,www.tysonfoods.com
+TSS UN  EQUITY,TOTAL SYSTEM SERVICES INC,"Consumer, Non-cyclical",Commercial Services,16329859540.48,89.81,M Troy Woods,7/31/2014,7050090,1-706-644-6081,www.tsys.com
+TTWO UW  EQUITY,TAKE-TWO INTERACTIVE SOFTWRE,Technology,Software,12090754953.03,105.75,H Strauss Zelnick,1/1/2011,23270,1-646-536-2842,www.take2games.com
+TWX UN  EQUITY,TIME WARNER INC,Communications,Media,74631800321.10,95.69,"Jeffrey L Bewkes ""Jeff""",1/1/2008,32614304,1-212-484-8000,www.timewarner.com
+TXN UW  EQUITY,TEXAS INSTRUMENTS INC,Technology,Semiconductors,107532112185.24,109.4,"Richard K Templeton ""Rich""",5/3/2004,16546722,1-214-479-3773,www.ti.com
+TXT UN  EQUITY,TEXTRON INC,Industrial,Miscellaneous Manufactur,15321424538.84,59.08,Scott C Donnelly,12/1/2009,14825330,1-401-421-2800,www.textron.com
+UA UN  EQUITY,UNDER ARMOUR INC-CLASS C,"Consumer, Cyclical",Apparel,6679541179.58,14.235,Kevin A Plank,1/1/1996,2033575,1-410-454-6428,www.underarmour.com
+UAA UN  EQUITY,UNDER ARMOUR INC-CLASS A,"Consumer, Cyclical",Apparel,6680553704.14,16.175,Kevin A Plank,1/1/1996,2033575,1-410-454-6428,www.underarmour.com
+UAL UN  EQUITY,UNITED CONTINENTAL HOLDINGS,"Consumer, Cyclical",Airlines,20119787656.49,70.66,Oscar Munoz,9/8/2015,23581874,1-872-825-4000,newsroom.united.com
+UDR UN  EQUITY,UDR INC,Financial,REITS,9461766421.12,35.36,"Thomas W Toomey ""Tom""",2/13/2001,5930700,1-720-283-6120,www.udrt.com
+UHS UN  EQUITY,UNIVERSAL HEALTH SERVICES-B,"Consumer, Non-cyclical",Healthcare-Services,11515205631.88,122.36,Alan B Miller,1/1/1978,19867748,1-610-768-3300,www.uhsinc.com
+ULTA UW  EQUITY,ULTA BEAUTY INC,"Consumer, Cyclical",Retail,13325007006.36,218.47,Mary N Dillon,1/29/2017,12366512,1-630-410-4800,www.ulta.com
+UNH UN  EQUITY,UNITEDHEALTH GROUP INC,"Consumer, Non-cyclical",Healthcare-Services,218207988234.50,225.47,"David Scott Wichmann ""Dave""",6/1/2003,17765612,1-925-936-1300,www.unitedhealthgroup.com
+UNM UN  EQUITY,UNUM GROUP,Financial,Insurance,11129433330.00,50.26,Richard Paul Mckenney,5/20/2015,8671319,1-423-294-1011,www.unumgroup.com
+UNP UN  EQUITY,UNION PACIFIC CORP,Industrial,Transportation,106959649131.00,137.245,Lance M Fritz,2/5/2015,11643138,1-402-544-5000,www.up.com
+UPS UN  EQUITY,UNITED PARCEL SERVICE-CL B,Industrial,Transportation,93024662820.06,107.91,David P Abney,9/1/2014,14608732,1-404-828-6000,www.ups.com
+URI UN  EQUITY,UNITED RENTALS INC,"Consumer, Non-cyclical",Commercial Services,15728873989.50,186.28,Michael J Kneeland,6/1/2007,11638627,1-203-622-3131,www.unitedrentals.com
+USB UN  EQUITY,US BANCORP,Financial,Banks,87048314358.87,52.71,"Andrew Cecere ""Andy""",4/18/2017,27411961,1-651-466-3000,www.usbank.com
+UTX UN  EQUITY,UNITED TECHNOLOGIES CORP,Industrial,Aerospace/Defense,101778964611.53,127.32,"Gregory J Hayes ""Greg""",11/24/2014,17027493,1-860-728-7000,www.utc.com
+V UN  EQUITY,VISA INC-CLASS A SHARES,Financial,Diversified Finan Serv,257381829559.84,124.88,Alfred F Kelly Jr,12/1/2016,26381013,1-650-432-3200,usa.visa.com
+VAR UN  EQUITY,VARIAN MEDICAL SYSTEMS INC,"Consumer, Non-cyclical",Healthcare-Products,11351360331.16,124.33,Dow R Wilson,9/29/2012,8304220,1-650-493-4000,www.varian.com
+VFC UN  EQUITY,VF CORP,"Consumer, Cyclical",Apparel,29734564400.49,74.97,"Steven E Rendle ""Steve""",1/1/2017,21151873,1-336-424-6000,www.vfc.com
+VIAB UW  EQUITY,VIACOM INC-CLASS B,Communications,Media,12839810003.26,30.99,"Robert M Bakish ""Bob""",11/15/2016,73963497,1-212-258-6000,www.viacom.com
+VLO UN  EQUITY,VALERO ENERGY CORP,Energy,Oil&Gas,41130085697.10,94.99,"Joseph W Gorder ""Joe""",5/1/2014,18452618,1-210-345-2000,www.valero.com
+VMC UN  EQUITY,VULCAN MATERIALS CO,Industrial,Building Materials,15057946742.50,113.67,"J Thomas Hill ""Tom""",7/14/2014,7531453,1-205-298-3000,www.vulcanmaterials.com
+VNO UN  EQUITY,VORNADO REALTY TRUST,Financial,REITS,12905603473.94,67.91,Steven D Roth,5/1/1989,11226578,1-212-894-7000,www.vno.com
+VRSK UW  EQUITY,VERISK ANALYTICS INC,"Consumer, Non-cyclical",Commercial Services,17408020140.28,105.52,Scott G Stephenson,4/1/2013,6927202,1-201-469-2000,www.verisk.com
+VRSN UW  EQUITY,VERISIGN INC,Communications,Internet,12179885792.71,125.39,D James Bidzos,6/30/2008,10700372,1-703-948-3200,www.verisign.com
+VRTX UW  EQUITY,VERTEX PHARMACEUTICALS INC,"Consumer, Non-cyclical",Biotechnology,43661804488.48,172.28,"Jeffrey M Leiden ""Jeff""",2/1/2012,17419758,1-617-341-6100,www.vrtx.com
+VTR UN  EQUITY,VENTAS INC,Financial,REITS,17481607947.48,49.08,Debra A Cafaro,3/1/1999,9666023,1-877-483-6827,www.ventasreit.com
+VZ UN  EQUITY,VERIZON COMMUNICATIONS INC,Communications,Telecommunications,196575709168.08,47.655,Lowell C Mcadam,8/1/2011,17937581,1-212-395-1000,www.verizon.com
+WAT UN  EQUITY,WATERS CORP,Industrial,Electronics,16866177624.96,214.08,"Christopher James O'Connell ""Chris""",9/8/2015,7631015,1-508-482-2000,www.waters.com
+WBA UW  EQUITY,WALGREENS BOOTS ALLIANCE INC,"Consumer, Cyclical",Retail,65116662656.01,65.66,Stefano Pessina,1/1/2015,14673822,1-847-315-2500,www.walgreens.com
+WDC UW  EQUITY,WESTERN DIGITAL CORP,Technology,Computers,30848076197.33,103.64,"Stephen D Milligan ""Steve""",1/1/2013,17907624,1-949-672-7000,www.westerndigital.com
+WEC UN  EQUITY,WEC ENERGY GROUP INC,Utilities,Electric,19402830997.55,61.49,Gale E Klappa,5/1/2004,22652315,1-414-221-2345,www.wecenergygroup.com
+WELL UN  EQUITY,WELLTOWER INC,Financial,REITS,19750518664.78,53.14,"Thomas J Derosa ""Tom""",4/13/2014,13734354,1-419-247-2800,www.welltower.com
+WFC UN  EQUITY,WELLS FARGO & CO,Financial,Banks,267770642262.48,54.86,"Timothy J Sloan ""Tim""",10/12/2016,17564014,1-866-878-5865,www.wellsfargo.com
+WHR UN  EQUITY,WHIRLPOOL CORP,"Consumer, Cyclical",Home Furnishings,11082460246.37,156.57,Marc Robert Bitzer,10/1/2017,22730562,1-269-923-5000,www.whirlpoolcorp.com
+WLTW UW  EQUITY,WILLIS TOWERS WATSON PLC,Financial,Insurance,21130789408.14,159.82,John James Haley,1/4/2016,44276460,44-20-3124-6000,www.willistowerswatson.com
+WM UN  EQUITY,WASTE MANAGEMENT INC,Industrial,Environmental Control,37287280030.44,85.99,James C Fish Jr,11/11/2016,22449522,1-713-512-6200,www.wm.com
+WMB UN  EQUITY,WILLIAMS COS INC,Energy,Pipelines,21659429656.48,26.17,Alan S Armstrong,1/3/2011,10127444,1-918-573-2000,co.williams.com
+WMT UN  EQUITY,WALMART INC,"Consumer, Cyclical",Retail,259593486025.35,87.6,"C Douglas Mcmillon ""Doug""",2/1/2014,33905996,1-479-273-4000,www.walmart.com
+WRK UN  EQUITY,WESTROCK CO,Industrial,Packaging&Containers,16478664104.07,64.59,"Steven C Voorhees ""Steve""",7/1/2015,11386313,1-770-448-2193,www.westrock.com
+WU UN  EQUITY,WESTERN UNION CO,"Consumer, Non-cyclical",Commercial Services,9066555390.48,19.75,Hikmet T Ersek,9/1/2010,9285500,1-866-405-5012,www.westernunion.com
+WY UN  EQUITY,WEYERHAEUSER CO,Financial,REITS,26705375744.12,35.33,Doyle R Simons,8/1/2013,10338963,1-206-539-3000,www.weyerhaeuser.com
+WYN UN  EQUITY,WYNDHAM WORLDWIDE CORP,"Consumer, Cyclical",Lodging,11679613509.12,117.12,Stephen P Holmes,7/1/2006,10535048,1-973-753-6000,www.wyndhamworldwide.com
+WYNN UW  EQUITY,WYNN RESORTS LTD,"Consumer, Cyclical",Lodging,19099511429.40,185.42,"Matthew O Maddox ""Matt""",2/6/2018,28156985,1-702-770-7000,www.wynnresorts.com
+XEC UN  EQUITY,CIMAREX ENERGY CO,Energy,Oil&Gas,8774580844.74,92.04,"Thomas E Jorden ""Tom""",9/30/2011,13180919,1-303-295-3995,www.cimarex.com
+XEL UW  EQUITY,XCEL ENERGY INC,Utilities,Electric,22471714198.09,44.25,"Benjamin Fowke III ""Ben""",8/24/2011,11520120,1-800-895-4999,www.xcelenergy.com
+XL UN  EQUITY,XL GROUP LTD,Financial,Insurance,14293535429.60,55.48,"Michael S Mcgavick ""Mike""",5/1/2008,12653175,1-441-292-8515,www.xlgroup.com
+XLNX UW  EQUITY,XILINX INC,Technology,Semiconductors,19266579086.64,75.62,Victor Peng,1/29/2018,6326060,1-408-559-7778,www.xilinx.com
+XOM UN  EQUITY,EXXON MOBIL CORP,Energy,Oil&Gas,313953571360.31,74.11,Darren W Woods,1/1/2017,27393567,1-972-444-1000,www.corporate.exxonmobil.com
+XRAY UW  EQUITY,DENTSPLY SIRONA INC,"Consumer, Non-cyclical",Healthcare-Products,12507904195.99,55.01,"Donald M Casey Jr ""Don""",2/12/2018,11128151,1-800-877-0020,www.dentsplysirona.com
+XRX UN  EQUITY,XEROX CORP,Technology,Office/Business Equip,7823569090.56,30.72,"Jeffrey Jacobson ""Jeff""",1/1/2017,14068167,1-203-968-3000,www.xerox.com
+XYL UN  EQUITY,XYLEM INC,Industrial,Machinery-Diversified,14209751624.55,78.99,Patrick K Decker,3/17/2014,7382065,1-914-323-5700,www.xylem.com
+YUM UN  EQUITY,YUM! BRANDS INC,"Consumer, Cyclical",Retail,27708316872.99,83.38,Greg Creed,1/1/2015,15380682,1-502-874-8300,www.yum.com
+ZBH UN  EQUITY,ZIMMER BIOMET HOLDINGS INC,"Consumer, Non-cyclical",Healthcare-Products,23240008220.00,114.4,Bryan C Hanson,12/19/2017,11492363,1-574-267-6131,www.zimmerbiomet.com
+ZION UW  EQUITY,ZIONS BANCORPORATION,Financial,Banks,10768983366.00,54.8,Harris H Simmons,01-01-2014,2807004,1-801-844-7637,www.zionsbancorporation.com
+ZTS UN  EQUITY,ZOETIS INC,"Consumer, Non-cyclical",Pharmaceuticals,40950560840.07,84.35,Juan Ramon Alaix,7/1/2012,9466626,1-973-822-7000,www.zoetis.com
